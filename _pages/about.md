@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ee.inha.ac.kr/ee/index.do'>EE</a> at <a href='https://www.inha.ac.kr/'>Inha University</a>. 
+subtitle: <a href='https://ee.inha.ac.kr/ee/index.do'>EE</a> at <a href='https://www.inha.ac.kr/'>Inha University</a> 
 
 profile:
   align: left
