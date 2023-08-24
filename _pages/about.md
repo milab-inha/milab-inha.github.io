@@ -12,7 +12,7 @@ profile:
 news: False  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
 selected_papers: False # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: False  # includes social icons at the bottom of the page
 ---
 
 Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
