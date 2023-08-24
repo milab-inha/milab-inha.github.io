@@ -19,7 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Research at Machine Intelligence Lab. @ Inha Univ. takes place at the intersection of computer vision, image processing, imaging systems, machine learning, and is directed at a variety of topics, ranging from the basic science of image understanding and image recovering to machine perception and medical analysis. 
+Welcome to to the website of Machine Intelligence (MI) Lab. @ Inha Univ. 
+
+
+Research area of the lab includes the intersection of computer vision, image processing, imaging systems, machine learning, and is directed at a variety of topics, ranging from the basic science of image understanding and image recovering to machine perception and medical analysis. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
