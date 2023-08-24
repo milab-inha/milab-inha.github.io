@@ -1,18 +1,11 @@
 ---
-layout: about
+layout: page
 title: Professor
 permalink: /professor/
 description: 
 nav: true
-nav_order: 2
+nav_order: 1
 horizontal: false
----
-
-profile:
-  align: left
-  image: hongki.jpg
-  image_circular: false # crops the image to make it circular
-
 ---
 
 
