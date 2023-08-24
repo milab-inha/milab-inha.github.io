@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Professor
-permalink: /professor/
+title: Group
+permalink: /group/
 description: 
 nav: true
 nav_order: 1
