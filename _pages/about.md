@@ -9,8 +9,7 @@ profile:
   image: mi_lab.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 032-860-7426</p>
-    <p>123 Hightech Center 905</p>
+    <p>Hightech Center 1001</p>
     <p>Inha University</p>
 
 news: False  # includes a list of news items
