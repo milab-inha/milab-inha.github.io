@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Affiliation: <a href='https://ee.inha.ac.kr/ee/index.do'>EE at <a href='https://www.inha.ac.kr/'>Inha University</a>. Address: Hightech Center 1001
+subtitle: Affiliation: <a href='https://ee.inha.ac.kr/ee/index.do'</a>EE at <a href='https://www.inha.ac.kr/'>Inha University</a>. Address: Hightech Center 1001
 
 profile:
   align: left
