@@ -2,15 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ee.inha.ac.kr/ee/index.do'>EE at Inha University</a>. Hightech Center 1001
 
 profile:
   align: left
   image: mi_lab.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Hightech Center 1001</p>
-    <p>Inha University</p>
 
 news: False  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
