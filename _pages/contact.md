@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 **Email**: [hklim@inha.ac.kr](mailto:hklim@inha.ac.kr)  <br>
