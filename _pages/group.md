@@ -3,7 +3,7 @@ layout: page
 title: Group
 permalink: /group/
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 ## Professor: Hongki Lim
