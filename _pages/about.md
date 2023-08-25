@@ -17,12 +17,16 @@ social: False  # includes social icons at the bottom of the page
 
 Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
 
-Research area of the MI Lab takes place at the intersection of 
-*computer vision
-*image processing
-*medical imaging 
+Our central quest is to advance the core algorithms and methods that underpin machine learning systems.
 
-We are looking for highly motivated students and postdocs with a strong interest in the area of deep learning, machine learning, and/or computer vision. If you are interested, please read this instruction and contact me.
+Research Focus:
+
+* Deep Generative Model
+* Computer Vision and Image Understanding
+* Image Processing
+* Inverse Problem
+
+We are looking for highly motivated students and postdocs with a strong interest in the area of deep learning, machine learning, and/or computer vision. If you are interested, please read  <a href='https://milab-inha.github.io/opportunity'>this instruction</a> and contact me.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
 
