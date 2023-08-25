@@ -14,8 +14,8 @@ nav_order: 6
 
 **Office Address**:  <br>
 Hichtech Center 905 <br>
-Department of Electronic Engineering  <br>
-Inha University  <br>
+Department of Electronic Engineering <br>
+Inha University <br>
 Incheon, South Korea <br><br>
 
 For research inquiries, prospective students, or other collaborations, please feel free to reach out.
