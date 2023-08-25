@@ -30,7 +30,7 @@ social: False  # includes social icons at the bottom of the page
 
 <p style="margin-bottom: 100px;">
     
-We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read [this instruction](/_pages/group.md#prospective) and contact me.
+We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read [this instruction]({{ site.baseurl }}{% link group.md %}) and contact me.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
 
