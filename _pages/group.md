@@ -19,7 +19,7 @@ nav_order: 3
 
 ## Undergraduate Researchers
 
-## 김철수 
+### 김철수 
 
 <div style="display: flex; align-items: start;">
     <img src="/assets/img/hongki-photo.jpg" alt="Hongki Lim" style="width: 150px; margin-right: 20px;">
