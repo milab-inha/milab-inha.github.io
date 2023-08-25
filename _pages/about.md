@@ -26,8 +26,6 @@ social: False  # includes social icons at the bottom of the page
          * Inverse Problem
     </div>
 </div>
-<div style="margin-bottom: 100px;"></div>
-
 
 We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read  <a href='https://milab-inha.github.io/prospective'>this instruction</a> and contact me.
 
