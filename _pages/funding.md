@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-We are deeply grateful to our funding sources, which enable us to push the boundaries of research in the domain of machine intelligence. Their continued support has been instrumental in our achievements and advancements.
+We deeply appreciate the support of our funders. Here is a list of projects funded through their generous contributions.
 
 ## Current Projects & Funding Agencies
 
@@ -16,7 +16,7 @@ We are deeply grateful to our funding sources, which enable us to push the bound
     - Duration: 2022.06 - 2025.02 
 
 
-2. 
+2. 인공지능융합혁신인재양성
     - Funded by: Institute for Information & communications Technology Promotion (IITP)
     - Duration: 2022.07 - 2025.12
 
