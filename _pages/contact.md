@@ -6,8 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-## Contact Information
-
 **Email**: [hklim@inha.ac.kr](mailto:hklim@inha.ac.kr)  <br>
 
 **Phone**: +82-32-860-7426 <br>
