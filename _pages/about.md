@@ -4,12 +4,6 @@ title: about
 permalink: /
 subtitle: affilated with <a href='https://ee.inha.ac.kr/ee/index.do'>EE</a> at <a href='https://www.inha.ac.kr/'>Inha University</a> 
 
-<!-- 
-  profile:
-  align: left
-  image: lab_about.png
-  image_circular: false # crops the image to make it circular
--->
 
 news: False  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
