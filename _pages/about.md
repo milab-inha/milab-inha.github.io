@@ -17,7 +17,12 @@ social: False  # includes social icons at the bottom of the page
 
 Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
 
-Research area of the MI Lab includes the intersection of computer vision, image processing, imaging systems, machine learning, and is directed at a variety of topics, ranging from the basic science of image understanding and image recovering to machine perception and medical analysis. 
+Research area of the MI Lab takes place at the intersection of 
+*computer vision
+*image processing
+*medical imaging 
+
+We are looking for highly motivated students and postdocs with a strong interest in the area of deep learning, machine learning, and/or computer vision. If you are interested, please read this instruction and contact me.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
 
