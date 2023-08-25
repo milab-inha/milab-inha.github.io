@@ -12,7 +12,7 @@ social: False  # includes social icons at the bottom of the page
 ---
 
 <div style="display: flex; align-items: start;">
-    <img src="/assets/img/lab_about.png" alt="mi-lab" style="width: 300px; margin-right: 30px;">
+    <img src="/assets/img/lab_about.png" alt="mi-lab" style="width: 200px; margin-right: 30px;">
     <div>
         Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. <br><br>
       
@@ -28,7 +28,7 @@ social: False  # includes social icons at the bottom of the page
     </div>
 </div>
 
-<p style="margin-bottom: 50px;">
+<p style="margin-bottom: 100px;">
     
 We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read  <a href='https://milab-inha.github.io/prospective'>this instruction</a> and contact me.
 
