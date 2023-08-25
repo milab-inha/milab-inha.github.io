@@ -26,7 +26,7 @@ Research Focus:
 * Image Processing
 * Inverse Problem
 
-We are looking for highly motivated students and postdocs with a strong interest in the area of deep learning, machine learning, and/or computer vision. If you are interested, please read  <a href='https://milab-inha.github.io/opportunity'>this instruction</a> and contact me.
+We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read  <a href='https://milab-inha.github.io/opportunity'>this instruction</a> and contact me.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
 
