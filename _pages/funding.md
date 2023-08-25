@@ -10,7 +10,7 @@ nav_order: 4
 We deeply appreciate the support of our funders. <br>
 Here is a list of projects funded through their generous contributions. <br>
 
-### Current Projects & Funding Agencies <br><br>
+### Current Projects & Funding Agencies <br>
 
 **Unifying image restoration and analysis tasks with an iterative neural networks** <br>
     - Funded by: National Research Foundation of Korea <br>
