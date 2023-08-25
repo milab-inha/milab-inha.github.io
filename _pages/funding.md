@@ -15,11 +15,11 @@ We deeply appreciate the support of our funders. Here is a list of projects fund
     - Funded by: National Research Foundation of Korea <br>
     - Duration: 2022.06 - 2025.02 <br><br>
 
-
+<!-- 
 **인공지능융합혁신인재양성** <br>
     - Funded by: Institute for Information & communications Technology Promotion (IITP) <br>
     - Duration: 2022.07 - 2025.12 <br><br>
-
+-->
       
 **Innovative Human Resource Development for Local Intellectualization support program** <br>
     - Funded by: Institute for Information & communications Technology Promotion (IITP) <br>
