@@ -14,16 +14,16 @@ social: False  # includes social icons at the bottom of the page
 <div style="display: flex; align-items: start;">
     <img src="/assets/img/lab_about.png" alt="mi-lab" style="width: 150px; margin-right: 20px;">
     <div>
-        Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
+        Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. <br><br>
       
-        At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models.
+        At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models. <br><br>
 
-        Research Focus:
+        Research Focus:<br>
         
-         * Deep Generative Model
-         * Computer Vision 
-         * Image Processing
-         * Inverse Problem
+         * Deep Generative Model <br>
+         * Computer Vision <br>
+         * Image Processing <br>
+         * Inverse Problem <br>
     </div>
 </div>
 
