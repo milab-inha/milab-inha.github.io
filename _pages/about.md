@@ -4,27 +4,36 @@ title: about
 permalink: /
 subtitle: affilated with <a href='https://ee.inha.ac.kr/ee/index.do'>EE</a> at <a href='https://www.inha.ac.kr/'>Inha University</a> 
 
-profile:
+<!-- 
+  profile:
   align: left
   image: lab_about.png
   image_circular: false # crops the image to make it circular
+-->
 
 news: False  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
+
+<div style="display: flex; align-items: start;">
+    <img src="/assets/img/lab_about.jpg" alt="mi-lab" style="width: 150px; margin-right: 20px;">
+    <div>
+        Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
+      
+        At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models.
+
+        Research Focus:
+        
+         * Deep Generative Model
+         * Computer Vision 
+         * Image Processing
+         * Inverse Problem
+    </div>
+</div>
 <div style="margin-bottom: 100px;"></div>
-Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
 
-At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models.
-
-Research Focus:
-
- * Deep Generative Model
- * Computer Vision 
- * Image Processing
- * Inverse Problem
 
 We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read  <a href='https://milab-inha.github.io/prospective'>this instruction</a> and contact me.
 
