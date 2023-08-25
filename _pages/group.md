@@ -16,6 +16,7 @@ nav_order: 3
     </div>
 </div>
 
+<br><br><br>
 ## Prospective Member
 
 Thank you for your interest in the research at MI Lab. <br>
