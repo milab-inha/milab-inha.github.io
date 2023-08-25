@@ -17,7 +17,7 @@ social: False  # includes social icons at the bottom of the page
 
 Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
 
-Our central quest is to advance the core algorithms and methods that underpin machine learning systems.
+At the MI Lab, we stand at the confluence of computer vision, image processing, and inverse problem, with a pronounced emphasis on deep generative models. 
 
 Research Focus:
 
