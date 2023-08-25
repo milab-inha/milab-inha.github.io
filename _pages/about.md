@@ -22,7 +22,7 @@ At the MI Lab, we stand at the confluence of computer vision, image processing, 
 Research Focus:
 
 * Deep Generative Model
-* Computer Vision and Image Understanding
+* Computer Vision 
 * Image Processing
 * Inverse Problem
 
