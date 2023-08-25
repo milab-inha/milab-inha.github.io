@@ -7,8 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-# Our Funding Sources
-
 We are deeply grateful to our funding sources, which enable us to push the boundaries of research in the domain of machine intelligence. Their continued support has been instrumental in our achievements and advancements.
 
 ## Current Projects & Funding Agencies
