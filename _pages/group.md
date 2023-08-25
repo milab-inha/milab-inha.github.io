@@ -16,6 +16,16 @@ nav_order: 3
     </div>
 </div>
 
+## Prospective Member
+
+Thank you for your interest in the research at MI Lab. <br>
+
+To understand the current projects in MI Lab, please refer to our recent journal and conference <a href='https://milab-inha.github.io/publications'>papers</a>. However, every member of my group is unique and I work with each person to find projects that suit their interests. <br>
+
+While much of our past work has centered on medical imaging, our vision for the future is broadening. We are leaning into general machine learning challenges, with a special focus on deep generative models and computer vision problems. <br>
+
+If you are interested in doing research with us, send me an [email](mailto:hklim@inha.ac.kr) with your CV and/or transcript.
+
 
 <!--
 ## Master's Students
