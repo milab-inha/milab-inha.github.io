@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-We deeply appreciate the support of our funders. Here is a list of projects funded through their generous contributions.
+We deeply appreciate the support of our funders. Here is a list of projects funded through their generous contributions. <br>
 
 ## Current Projects & Funding Agencies <br><br>
 
