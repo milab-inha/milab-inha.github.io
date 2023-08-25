@@ -30,7 +30,7 @@ social: False  # includes social icons at the bottom of the page
 
 <p style="margin-bottom: 100px;">
     
-We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read  <a href='https://milab-inha.github.io/prospective'>this instruction</a> and contact me.
+We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read <a href='https://milab-inha.github.io/group'>the instruction for prospective member</a> and contact me.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
 
