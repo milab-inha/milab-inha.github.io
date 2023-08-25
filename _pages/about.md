@@ -12,7 +12,7 @@ social: False  # includes social icons at the bottom of the page
 ---
 
 <div style="display: flex; align-items: start;">
-    <img src="/assets/img/lab_about.jpg" alt="mi-lab" style="width: 150px; margin-right: 20px;">
+    <img src="/assets/img/lab_about.png" alt="mi-lab" style="width: 150px; margin-right: 20px;">
     <div>
         Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
       
