@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Group Members
-permalink: /group-members/
+title: Group
+permalink: /group/
 nav: true
 nav_order: 2
 ---
