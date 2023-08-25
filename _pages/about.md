@@ -17,7 +17,7 @@ social: False  # includes social icons at the bottom of the page
 
 Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
 
-At the MI Lab, we stand at the confluence of computer vision, image processing, and inverse problem, with a pronounced emphasis on deep generative models. 
+At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models.
 
 Research Focus:
 
