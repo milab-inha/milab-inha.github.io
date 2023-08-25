@@ -12,22 +12,24 @@ social: False  # includes social icons at the bottom of the page
 ---
 
 <div style="display: flex; align-items: start;">
-    <img src="/assets/img/lab_about.png" alt="mi-lab" style="width: 150px; margin-right: 20px;">
+    <img src="/assets/img/lab_about.png" alt="mi-lab" style="width: 300px; margin-right: 30px;">
     <div>
         Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. <br><br>
       
         At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models. <br><br>
 
         Research Focus:<br>
-        
-         * Deep Generative Model <br>
-         * Computer Vision <br>
-         * Image Processing <br>
-         * Inverse Problem <br>
+        <ul>
+         <li>Deep Generative Model </li>
+         <li>Computer Vision </li>
+         <li>Image Processing </li>
+         <li>Inverse Problem </li>
+        </ul>
     </div>
 </div>
 
-
+<p style="margin-bottom: 50px;">
+    
 We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read  <a href='https://milab-inha.github.io/prospective'>this instruction</a> and contact me.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
