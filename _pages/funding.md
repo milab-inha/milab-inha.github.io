@@ -7,9 +7,25 @@ nav: true
 nav_order: 5
 ---
 
+# Our Funding Sources
 
-2022R1F1A1069055: National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) 
+We are deeply grateful to our funding sources, which enable us to push the boundaries of research in the domain of machine intelligence. Their continued support has been instrumental in our achievements and advancements.
 
-IITP-2023-RS-2023-00259678:  MSIT(Ministry of Science and ICT), Korea, under the Innovative Human Resource Development for Local Intellectualization support program
+## Current Funding Agencies
 
-RS-2023-00243974: Korea Institute of Energy Technology Evaluation and Planning (KETEP) grant funded by the Korea Government (MOTIE) (Graduate School of Digital-based Sustainable Energy Process Innovation Convergence)
+1. **National Research Foundation of Korea**
+    - Unifying image restoration and analysis tasks with an iterative neural networks
+    - Duration: 2022.06 - 2025.02 
+
+2. **Institute for Information & communications Technology Promotion (IITP)**
+    - Duration: 2022.07 - 2025.12
+      
+3. **Institute for Information & communications Technology Promotion (IITP)**
+    - Innovative Human Resource Development for Local Intellectualization support program
+    - Duration: 2023.07 - 2030.12
+      
+4. **Korea Institute of Energy Technology Evaluation and Planning (KETEP)**
+    - Graduate School of Digital-based Sustainable Energy Process Innovation Convergence
+    - Duration: 2023.04 - 2027.12
+
+  
