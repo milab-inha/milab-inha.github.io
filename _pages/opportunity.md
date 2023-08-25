@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O
-permalink: /Prospective Member/
+title: Prospective Member
+permalink: /opportunity/
 description: 
 nav: true
 nav_order: 1
