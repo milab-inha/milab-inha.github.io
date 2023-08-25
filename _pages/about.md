@@ -14,7 +14,7 @@ latest_posts: False  # includes a list of the newest posts
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
-
+<div style="margin-bottom: 50px;"></div>
 Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. 
 
 At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models.
