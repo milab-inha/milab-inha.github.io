@@ -10,15 +10,39 @@ latest_posts: False  # includes a list of the newest posts
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
+<style>
+    /* Styles for screens larger than 768px (typical breakpoint for tablets) */
+    @media (min-width: 768px) {
+        .lab-image {
+            width: 200px;
+            margin-right: 30px;
+        }
+        .lab-text {
+            max-width: 70%; /* or whatever max width you think looks good */
+        }
+    }
+
+    /* Styles for screens smaller than 768px */
+    @media (max-width: 768px) {
+        .lab-image {
+            width: 100px; /* adjust as needed for mobile */
+            margin-right: 15px;
+        }
+        .lab-text {
+            max-width: calc(100% - 120px); /* 100% minus the image width and a bit of margin */
+            flex: 1; /* this allows the text div to take up any remaining space */
+        }
+    }
+</style>
 
 <div style="display: flex; align-items: start;">
-    <img src="/assets/img/lab_about.png" alt="mi-lab" style="width: 200px; margin-right: 30px;">
-    <div>
-        Welcome to to the website of Machine Intelligence (MI) Lab @ Inha Univ. <br><br>
-      
+    <img src="/assets/img/lab_about.png" alt="mi-lab" class="lab-image">
+    <div class="lab-text">
+        Welcome to the website of Machine Intelligence (MI) Lab @ Inha Univ. <br><br>
+
         At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models. <br><br>
 
-        Research Focus:<br>
+        Research Focus:
         <ul>
          <li>Deep Generative Model </li>
          <li>Computer Vision </li>
@@ -27,7 +51,6 @@ social: False  # includes social icons at the bottom of the page
         </ul>
     </div>
 </div>
-
 <p style="margin-bottom: 100px;">
     
 We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read <a href='https://milab-inha.github.io/group/#prospective'>this instruction</a> and contact me.
