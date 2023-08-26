@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: affilated with the <a href='https://ee.inha.ac.kr/ee/index.do'>EE Department</a> at <a href='https://www.inha.ac.kr/'>Inha University</a> <br> located in Hightech Center, Room 1001 
-
 
 news: False  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
@@ -49,6 +47,11 @@ social: False  # includes social icons at the bottom of the page
         width: 100%;
     }
 </style>
+
+<p style="font-size: 0.8em;">
+    affilated with the <a href='https://ee.inha.ac.kr/ee/index.do'>EE Department</a> at <a href='https://www.inha.ac.kr/'>Inha University</a> <br> 
+    located in Hightech Center, Room 1001 <br>
+</p>
 
 <div style="overflow: auto;">
     <figure style="float: right; margin-left: 20px; margin-bottom: 10px;">
