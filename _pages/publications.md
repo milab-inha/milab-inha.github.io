@@ -9,7 +9,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 J: Journal papers <br>
 C: Conference proceedings papers <br>
-A: Conference abstract <br>
+A: Conference abstracts <br>
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
