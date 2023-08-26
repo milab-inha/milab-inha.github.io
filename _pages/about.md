@@ -18,7 +18,7 @@ social: False  # includes social icons at the bottom of the page
             margin-right: 30px;
         }
         .lab-text {
-            max-width: 80%; /* or whatever max width you think looks good */
+            max-width: 70%; /* or whatever max width you think looks good */
         }
     }
 
@@ -29,7 +29,7 @@ social: False  # includes social icons at the bottom of the page
             margin-right: 15px;
         }
         .lab-text {
-            max-width: calc(100% - 120px); /* 100% minus the image width and a bit of margin */
+            max-width: 70%; /* 100% minus the image width and a bit of margin */
             flex: 1; /* this allows the text div to take up any remaining space */
         }
     }
