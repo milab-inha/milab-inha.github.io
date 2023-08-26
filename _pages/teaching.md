@@ -1,8 +1,10 @@
+---
 layout: page
 title: Teaching
 permalink: /teaching/
 nav: true
 nav_order: 4
+---
 
 Here's a snapshot of the courses I've taught, along with the corresponding academic year or semester.
 
