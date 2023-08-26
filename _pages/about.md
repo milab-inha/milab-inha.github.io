@@ -41,7 +41,8 @@ social: False  # includes social icons at the bottom of the page
     }
 
     figcaption {
-        font-size: 0.5em; /* Makes the font size 80% of the parent's font size */
+        display: inline-block;
+        font-size: 0.7em; /* Makes the font size 80% of the parent's font size */
         text-align: center; /* Centers the caption text under the image */
     }
 </style>
