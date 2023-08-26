@@ -45,8 +45,8 @@ social: False  # includes social icons at the bottom of the page
     </div>
 </div>
 
-Research Focus:
 <ul>
+Research Focus:
  <li>Deep Generative Model </li>
  <li>Computer Vision </li>
  <li>Image Processing </li>
