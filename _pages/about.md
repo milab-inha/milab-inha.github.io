@@ -18,7 +18,7 @@ social: False  # includes social icons at the bottom of the page
             margin-right: 30px;
         }
         .lab-text {
-            max-width: 70%; /* or whatever max width you think looks good */
+            max-width: 100%; /* or whatever max width you think looks good */
         }
     }
 
@@ -36,7 +36,7 @@ social: False  # includes social icons at the bottom of the page
 </style>
 
 <div style="overflow: auto;">
-    <img src="/assets/img/lab_about.png" alt="mi-lab" class="lab-image">
+    <img src="/assets/img/lab_about.png" alt="mi-lab" class="lab-image style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="lab-text">
         Welcome to the website of Machine Intelligence (MI) Lab @ Inha Univ. <br><br>
 
