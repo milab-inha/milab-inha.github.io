@@ -54,8 +54,6 @@ social: False  # includes social icons at the bottom of the page
         </ul>
     </div>
 </div>
-
-<br>
     
 We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read <a href='https://milab-inha.github.io/group/#prospective'>this instruction</a> and contact me.
 
