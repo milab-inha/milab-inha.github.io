@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: affilated with <a href='https://ee.inha.ac.kr/ee/index.do'>EE</a> at <a href='https://www.inha.ac.kr/'>Inha University</a> <br> located in Hightech Center 1001 
+subtitle: affilated with <a href='https://ee.inha.ac.kr/ee/index.do'>EE</a> at <a href='https://www.inha.ac.kr/'>Inha University</a> <br> located in Hightech Center, Room 1001 
 
 
 news: False  # includes a list of news items
