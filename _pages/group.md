@@ -14,7 +14,7 @@ nav_order: 3
             margin-right: 30px;
         }
         .professor-text {
-            max-width: 100%; /* or whatever max width you think looks good */
+            max-width: 70%; /* or whatever max width you think looks good */
         }
     }
 
@@ -25,7 +25,7 @@ nav_order: 3
             margin-right: 15px;
         }
         .professor-text {
-            max-width: calc(100% - 120px); /* 100% minus the image width and a bit of margin */
+            max-width: 70%; /* 100% minus the image width and a bit of margin */
             flex: 1; /* this allows the text div to take up any remaining space */
         }
     }
