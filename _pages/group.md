@@ -8,7 +8,7 @@ nav_order: 3
 
 /* Default styling (for mobile) */
 .professor-photo {
-    width: 100px;
+    width: 100px; /* or whatever size you want for mobile */
     margin-right: 10px;
     margin-bottom: 10px;
     float: left;
@@ -17,11 +17,10 @@ nav_order: 3
 /* Styling for larger screens (desktop) */
 @media (min-width: 768px) {
     .professor-photo {
-        width: 150px;
+        width: 150px; /* size for desktop */
         margin-right: 20px;
     }
 }
-
 
 ## Professor: Hongki Lim
 
