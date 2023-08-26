@@ -43,7 +43,7 @@ social: False  # includes social icons at the bottom of the page
         At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models.         
     </div>
 </div>
-<br><br>
+<br>
 
 <ul>Research Focus:
  <li>Deep Generative Model </li>
@@ -52,7 +52,7 @@ social: False  # includes social icons at the bottom of the page
  <li>Inverse Problem </li>
 </ul>
 
-<p style="margin-bottom: 100px;">
+<br><br>
     
 We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read <a href='https://milab-inha.github.io/group/#prospective'>this instruction</a> and contact me.
 
