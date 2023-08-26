@@ -10,32 +10,35 @@ latest_posts: False  # includes a list of the newest posts
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
-<style>
-    /* Styles for screens larger than 768px (typical breakpoint for tablets) */
-    @media (min-width: 768px) {
-        .lab-image {
-            width: 200px;
-            margin-right: 30px;
-        }
-        .lab-text {
-            max-width: 70%; /* or whatever max width you think looks good */
-        }
-    }
+.lab-container {
+    display: flex;
+    align-items: start;
+    flex-wrap: wrap;
+}
 
-    /* Styles for screens smaller than 768px */
-    @media (max-width: 768px) {
-        .lab-image {
-            width: 100px; /* adjust as needed for mobile */
-            margin-right: 15px;
-        }
-        .lab-text {
-            max-width: calc(100% - 120px); /* 100% minus the image width and a bit of margin */
-            flex: 1; /* this allows the text div to take up any remaining space */
-        }
-    }
-</style>
+.lab-image {
+    margin-right: 20px;
+    max-width: 100%;
+}
 
-<div style="overflow: auto;">
+.lab-text {
+    flex: 1;
+}
+
+/* Responsive behavior for smaller screens (e.g., mobile) */
+@media (max-width: 600px) {
+    .lab-image {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+    .lab-text {
+        width: 100%;
+    }
+}
+
+
+<div class="lab-container">
     <img src="/assets/img/lab_about.png" alt="mi-lab" class="lab-image">
     <div class="lab-text">
         Welcome to the website of Machine Intelligence (MI) Lab @ Inha Univ. <br><br>
@@ -51,6 +54,7 @@ social: False  # includes social icons at the bottom of the page
         </ul>
     </div>
 </div>
+
 <p style="margin-bottom: 100px;">
     
 We are looking for highly motivated students and postdocs with a strong interest in the area of machine learning. If you are interested, please read <a href='https://milab-inha.github.io/group/#prospective'>this instruction</a> and contact me.
