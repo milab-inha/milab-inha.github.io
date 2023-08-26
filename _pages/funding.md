@@ -12,8 +12,8 @@ Here is a list of projects funded through their generous contributions. <br>
 
 ### Current Projects & Funding Agencies <br>
 
-**Unifying image restoration and analysis tasks with an iterative neural networks** <br>
-    - Funded by: National Research Foundation of Korea <br>
+**Unifying Image Restoration and Analysis Tasks with an Iterative Neural Networks** <br>
+    - Funded by: National Research Foundation of Korea (NRF) <br>
     - Duration: 2022.06 - 2025.02 <br><br>
 
 <!-- 
@@ -22,7 +22,7 @@ Here is a list of projects funded through their generous contributions. <br>
     - Duration: 2022.07 - 2025.12 <br><br>
 -->
       
-**Innovative Human Resource Development for Local Intellectualization support program** <br>
+**Innovative Human Resource Development for Local Intellectualization Support Program** <br>
     - Funded by: Institute for Information & communications Technology Promotion (IITP) <br>
     - Duration: 2023.07 - 2030.12 <br><br>
 
