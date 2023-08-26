@@ -38,12 +38,15 @@ social: False  # includes social icons at the bottom of the page
 <style>
     figure {
         display: inline-block; /* Makes the figure element wrap tightly around its contents */
+        width: auto;
+        margin: 0;
     }
 
     figcaption {
-        display: inline-block;
         font-size: 0.7em; /* Makes the font size 80% of the parent's font size */
         text-align: center; /* Centers the caption text under the image */
+        word-wrap: break-word;
+        width: 100%;
     }
 </style>
 
