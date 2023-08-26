@@ -35,13 +35,13 @@ social: False  # includes social icons at the bottom of the page
     }
 </style>
 
-<div style="overflow: auto;">
-    <img class="lab-image" src="/assets/img/lab_about.png" alt="mi-lab" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<div style="overflow: auto;">    
     <div class="lab-text">
         Welcome to the website of Machine Intelligence (MI) Lab @ Inha Univ. <br><br>
 
         At the MI Lab, we delve into the intersection of computer vision, image processing, and inverse problems, with a particular focus on deep generative models.         
     </div>
+    <img class="lab-image" src="/assets/img/lab_about.png" alt="mi-lab" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 </div>
 <br>
 
