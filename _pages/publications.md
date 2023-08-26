@@ -8,7 +8,7 @@ nav_order: 2
 ---
 <!-- _pages/publications.md -->
 J: Journal papers <br>
-C: Conference proceedings <br>
+C: Conference proceedings papers <br>
 A: Conference abstract <br>
 <div class="publications">
 
