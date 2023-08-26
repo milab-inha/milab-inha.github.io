@@ -14,7 +14,7 @@ nav_order: 3
             margin-right: 30px;
         }
         .professor-text {
-            max-width: 70%; /* or whatever max width you think looks good */
+            max-width: 100%; /* or whatever max width you think looks good */
         }
     }
 
