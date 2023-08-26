@@ -4,7 +4,7 @@ permalink: /funding/
 title: Funding
 description: 
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 We deeply appreciate the support of our funders. <br>
