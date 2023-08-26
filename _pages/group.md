@@ -6,10 +6,27 @@ nav: true
 nav_order: 3
 ---
 
+/* Default styling (for mobile) */
+.professor-photo {
+    width: 100px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+/* Styling for larger screens (desktop) */
+@media (min-width: 768px) {
+    .professor-photo {
+        width: 150px;
+        margin-right: 20px;
+    }
+}
+
+
 ## Professor: Hongki Lim
 
 <div style="overflow: auto;">
-    <img src="/assets/img/hongki-photo.jpg" alt="Hongki Lim" style="float: left; width: 150px; margin-right: 20px; margin-bottom: 10px;">
+    <img class="professor-photo" src="/assets/img/hongki-photo.jpg" alt="Hongki Lim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <strong>Biography:</strong> Hongki Lim is currently an assistant professor in the Department of Electronic Engineering at Inha University. Previously he worked as a Senior AI Scientist at Siemens Healthineers. He received his Ph.D. from the Department of Electrical and Computer Engineering at the University of Michigan in 2020, advised by <a href='https://web.eecs.umich.edu/~fessler/'>Prof. Jeffrey Fessler</a> and <a href='https://medicine.umich.edu/dept/radiology/yuni-dewaraja-phd'>Prof. Yuni Dewaraja</a>. 
     <br><strong><a href="/assets/cv.pdf">CV (05/2023)</a></strong>
 </div>
