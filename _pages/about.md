@@ -50,7 +50,7 @@ social: False  # includes social icons at the bottom of the page
 
 <p style="font-size: 0.8em;">
     affilated with the <a href='https://ee.inha.ac.kr/ee/index.do'>EE Department</a> at <a href='https://www.inha.ac.kr/'>Inha University</a> <br> 
-    located in Hightech Center, Room 1001 <br>
+    located in Hightech Center, Room 1001 <br><br>
 </p>
 
 <div style="overflow: auto;">
