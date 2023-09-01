@@ -1,28 +1,12 @@
 ---
 layout: page
-title: Teaching
 permalink: /teaching/
+title: teaching
+description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
-Here's a snapshot of the courses I've taught, along with the corresponding academic year and semester.
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-## Undergraduate Courses
-
-**Linear Algebra** <br>
-Semester: Spring 2022, Spring 2023<br>
-
-**Electromagnetics** <br>
-Semester: Spring 2022, Spring 2023<br>
-
-**Introduction to Machine Learning** <br>
-Semester: Fall 2022, Fall 2023<br>
-
-**Deep Learning** <br>
-Semester: Fall 2022, Fall 2023<br>
-
-## Graduate Courses
-
-**Deep Generative Models** <br>
-Semester: Fall 2023
+Organize your courses by years, topics, or universities, however you like!
