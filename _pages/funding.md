@@ -7,9 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-We deeply appreciate the support of our funders. <br>
-Here is a list of projects funded through their generous contributions. <br>
-
 ### Current Projects & Funding Agencies <br>
 
 **Unifying Image Restoration and Analysis Tasks with an Iterative Neural Networks** <br>
