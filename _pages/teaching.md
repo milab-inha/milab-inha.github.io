@@ -6,8 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-Here's a snapshot of the courses I've taught, along with the corresponding academic year and semester.
-
 ## Undergraduate Courses
 
 **Linear Algebra** <br>
