@@ -54,7 +54,7 @@ nav_order: 3
 
 ## MS students
 <div style="overflow: auto;">
-    <img class="student-photo" src="/assets/img/kim_mw.jpg" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/kim_mw.JPG" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/민우-김-414aba2a3/'>Kim, Minwoo</a><br>
         Inverse problem<br>
@@ -64,7 +64,7 @@ nav_order: 3
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/hongki-lim-8aa61949/'>Lee, Hwan</a><br>
+        <a href='https://www.linkedin.com/'>Lee, Hwan</a><br>
         Video synthesis<br>
     </div>
 </div>
