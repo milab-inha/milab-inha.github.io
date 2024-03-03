@@ -20,6 +20,10 @@ nav_order: 3
         .professor-text, .student-text {
             max-width: 90%; /* or whatever max width you think looks good */
         }
+        .student-container {
+            display: flex;
+            align-items: center; /* Align items vertically in the center */
+            margin-bottom: 20px; /* Spacing between student entries */
     }
 
     /* Styles for screens smaller than 768px */
@@ -35,6 +39,11 @@ nav_order: 3
         .professor-text, .student-text {
             max-width: 100%; /* 100% minus the image width and a bit of margin */
             flex: 1; /* this allows the text div to take up any remaining space */
+        }
+        .student-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
         }
     }
 </style>
@@ -53,14 +62,14 @@ nav_order: 3
 <br><br>
 
 ## Current MS student(s)
-<div style="overflow: auto;">
+<div style="student-container">
     <img class="student-photo" src="/assets/img/kim_mw.JPG" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/민우-김-414aba2a3/'>Kim, Minwoo</a><br>
         Inverse problem<br>
     </div>
 </div>
-<div style="overflow: auto;">
+<div style="student-container">
     <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dlghks629'>Lee, Hwan</a><br>
@@ -77,7 +86,7 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<div style="overflow: auto;">
+<div style="student-container">
     <img class="student-photo" src="/assets/img/kang_jw.jpg" alt="kang_jw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/junggang22'>Kang, Jungwoon</a><br>
@@ -85,7 +94,7 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<div style="overflow: auto;">
+<div style="student-container">
     <img class="student-photo" src="/assets/img/kim_ks.jpg" alt="kim_ks" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://'>Kim, Kyung Sub</a><br>
@@ -101,7 +110,7 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<div style="overflow: auto;">
+<div style="student-container">
     <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
@@ -109,7 +118,7 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<div style="overflow: auto;">
+<div style="student-container">
     <img class="student-photo" src="/assets/img/kim_db.jpg" alt="kim_db" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://'>Kim, Dabin</a><br>
@@ -117,7 +126,7 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<div style="overflow: auto;">
+<div style="student-container">
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dong Min</a><br>
