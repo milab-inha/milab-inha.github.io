@@ -14,7 +14,7 @@ nav_order: 3
             margin-right: 30px;
         }
         .student-photo {
-            width: 150px; /* Slightly smaller than the professor photo */
+            width: 120px; /* Slightly smaller than the professor photo */
             margin-right: 25px;
         }
         .professor-text, .student-text {
@@ -29,7 +29,7 @@ nav_order: 3
             margin-right: 15px;
         }
         .student-photo {
-            width: 75px; /* Adjusted for mobile */
+            width: 60px; /* Adjusted for mobile */
             margin-right: 10px;
         }
         .professor-text, .student-text {
