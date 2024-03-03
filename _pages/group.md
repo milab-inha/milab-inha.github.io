@@ -71,58 +71,58 @@ nav_order: 3
 <br><br>
 ## Undergraduate researchers 
 <div style="overflow: auto;">
-    <img class="student-photo" src="/assets/img/kim_mw.jpg" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/kim_jh.jpg" alt="kim_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/hongki-lim-8aa61949/'>Kim, Minwoo</a><br>
+        <a href='https://www.linkedin.com/in/종하-김-4253312b8/'>Kim, Jongha</a><br>
+        Video synthesis<br>
+    </div>
+</div>
+<br>
+<div style="overflow: auto;">
+    <img class="student-photo" src="/assets/img/kang_jw.jpg" alt="kang_jw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/junggang22'>Kang, Jungwoon</a><br>
         Inverse problem<br>
     </div>
 </div>
 <br>
 <div style="overflow: auto;">
-    <img class="student-photo" src="/assets/img/kim_mw.jpg" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/kim_ks.jpg" alt="kim_ks" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/hongki-lim-8aa61949/'>Kim, Minwoo</a><br>
+        <a href='https://'>Kim, Kyung Sub</a><br>
+        Video synthesis<br>
+    </div>
+</div>
+<br>
+<div style="overflow: auto;">
+    <img class="student-photo" src="/assets/img/chun_ms.jpg" alt="chun_ms" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://'>Chun, Minsoo</a><br>
         Inverse problem<br>
     </div>
 </div>
 <br>
 <div style="overflow: auto;">
-    <img class="student-photo" src="/assets/img/kim_mw.jpg" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/hongki-lim-8aa61949/'>Kim, Minwoo</a><br>
-        Inverse problem<br>
+        <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
+        3D Reconstruction<br>
     </div>
 </div>
 <br>
 <div style="overflow: auto;">
-    <img class="student-photo" src="/assets/img/kim_mw.jpg" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/kim_db.jpg" alt="kim_db" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/hongki-lim-8aa61949/'>Kim, Minwoo</a><br>
-        Inverse problem<br>
+        <a href='https://'>Kim, Dabin</a><br>
+        3D Reconstruction<br>
     </div>
 </div>
 <br>
 <div style="overflow: auto;">
-    <img class="student-photo" src="/assets/img/kim_mw.jpg" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/hongki-lim-8aa61949/'>Kim, Minwoo</a><br>
-        Inverse problem<br>
-    </div>
-</div>
-<br>
-<div style="overflow: auto;">
-    <img class="student-photo" src="/assets/img/kim_mw.jpg" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/hongki-lim-8aa61949/'>Kim, Minwoo</a><br>
-        Inverse problem<br>
-    </div>
-</div>
-<br>
-<div style="overflow: auto;">
-    <img class="student-photo" src="/assets/img/kim_mw.jpg" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/hongki-lim-8aa61949/'>Kim, Minwoo</a><br>
-        Inverse problem<br>
+        <a href='https://'>Kim, Dong Min</a><br>
+        3D Reconstruction<br>
     </div>
 </div>
 <br>
