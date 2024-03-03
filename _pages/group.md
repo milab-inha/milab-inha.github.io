@@ -52,7 +52,7 @@ nav_order: 3
 
 <br><br><br>
 
-## MS students
+## Current MS students 
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/kim_mw.JPG" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -69,7 +69,7 @@ nav_order: 3
     </div>
 </div>
 <br><br>
-## Undergraduate researchers 
+## Current Undergraduate researchers 
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/kim_jh.jpg" alt="kim_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
