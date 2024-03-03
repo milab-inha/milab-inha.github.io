@@ -52,7 +52,7 @@ nav_order: 3
 
 <br><br>
 
-## Current MS student
+## Current MS student(s)
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/kim_mw.JPG" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
