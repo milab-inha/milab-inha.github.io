@@ -39,7 +39,7 @@ nav_order: 3
     }
 </style>
 
-## Professor: Hongki Lim
+## Professor
 
 <div style="overflow: auto;">
     <img class="professor-photo" src="/assets/img/hongki-photo.jpg" alt="Hongki Lim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
