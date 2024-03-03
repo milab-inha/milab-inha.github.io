@@ -64,7 +64,7 @@ nav_order: 3
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/'>Lee, Hwan</a><br>
+        <a href='www.linkedin.com/in/dlghks629'>Lee, Hwan</a><br>
         Video synthesis<br>
     </div>
 </div>
