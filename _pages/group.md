@@ -60,7 +60,6 @@ nav_order: 3
         Inverse problem<br>
     </div>
 </div>
-<br>
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -78,7 +77,6 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<br>
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/kang_jw.jpg" alt="kang_jw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -87,7 +85,6 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<br>
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/kim_ks.jpg" alt="kim_ks" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -96,7 +93,6 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<br>
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/chun_ms.jpg" alt="chun_ms" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -105,7 +101,6 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<br>
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -114,7 +109,6 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<br>
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/kim_db.jpg" alt="kim_db" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -123,7 +117,6 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<br>
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -132,7 +125,6 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<br>
 <br>
 
 ## Prospective Member {#prospective}
