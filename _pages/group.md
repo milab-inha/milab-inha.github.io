@@ -75,6 +75,7 @@ nav_order: 3
     <div class="student-text">
         <a href='https://www.linkedin.com/in/종하-김-4253312b8/'>Kim, Jongha</a><br>
         Video synthesis<br>
+        2024-<br>
     </div>
 </div>
 <br>
@@ -83,6 +84,7 @@ nav_order: 3
     <div class="student-text">
         <a href='https://www.linkedin.com/in/junggang22'>Kang, Jungwoon</a><br>
         Inverse problem<br>
+        2024-<br>
     </div>
 </div>
 <br>
@@ -91,6 +93,7 @@ nav_order: 3
     <div class="student-text">
         <a href='https://'>Kim, Kyung Sub</a><br>
         Video synthesis<br>
+        2024-<br>
     </div>
 </div>
 <br>
@@ -99,6 +102,7 @@ nav_order: 3
     <div class="student-text">
         <a href='https://'>Chun, Minsoo</a><br>
         Inverse problem<br>
+        2024-<br>
     </div>
 </div>
 <br>
@@ -107,6 +111,7 @@ nav_order: 3
     <div class="student-text">
         <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
         3D reconstruction<br>
+        2024-<br>
     </div>
 </div>
 <br>
@@ -115,6 +120,7 @@ nav_order: 3
     <div class="student-text">
         <a href='https://'>Kim, Dabin</a><br>
         3D reconstruction<br>
+        2024-<br>
     </div>
 </div>
 <br>
@@ -123,6 +129,7 @@ nav_order: 3
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dong Min</a><br>
         3D reconstruction<br>
+        2024-<br>
     </div>
 </div>
 <br>
