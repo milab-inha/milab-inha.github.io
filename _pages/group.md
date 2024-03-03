@@ -106,7 +106,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
-        3D Reconstruction<br>
+        3D reconstruction<br>
     </div>
 </div>
 <br>
@@ -114,7 +114,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/kim_db.jpg" alt="kim_db" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://'>Kim, Dabin</a><br>
-        3D Reconstruction<br>
+        3D reconstruction<br>
     </div>
 </div>
 <br>
@@ -122,7 +122,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dong Min</a><br>
-        3D Reconstruction<br>
+        3D reconstruction<br>
     </div>
 </div>
 <br>
