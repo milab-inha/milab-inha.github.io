@@ -78,7 +78,7 @@ nav_order: 3
 </div>
 <br>
 ## Undergraduate researchers
-<div class="overflow: auto;">
+<div class="student-container">
     <img class="student-photo" src="/assets/img/kim_jh.jpg" alt="kim_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/종하-김-4253312b8/'>Kim, Jongha</a><br>
@@ -102,7 +102,7 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<div class="overflow: auto;">
+<div class="student-container">
     <img class="student-photo" src="/assets/img/chun_ms.jpg" alt="chun_ms" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://'>Chun, Minsoo</a><br>
