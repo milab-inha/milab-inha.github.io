@@ -121,7 +121,7 @@ nav_order: 3
 <div style="overflow: auto;">
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://'>Kim, Dong Min</a><br>
+        <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dong Min</a><br>
         3D Reconstruction<br>
     </div>
 </div>
