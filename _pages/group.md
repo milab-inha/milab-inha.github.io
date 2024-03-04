@@ -119,7 +119,7 @@ nav_order: 3
 <div class="student-container">
     <img class="student-photo" src="/assets/img/kim_db.jpg" alt="kim_db" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://'>Kim, Dabin</a><br>
+        <a href='https://www.linkedin.com/in/학생-전자공학-김다빈-24951a2b8'>Kim, Dabin</a><br>
         3D reconstruction<br>
         2024-<br>
     </div>
