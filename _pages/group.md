@@ -24,6 +24,7 @@ nav_order: 3
             display: flex;
             align-items: center; /* Align items vertically in the center */
             margin-bottom: 20px; /* Spacing between student entries */
+        }
     }
 
     /* Styles for screens smaller than 768px */
@@ -56,8 +57,6 @@ nav_order: 3
         Hongki Lim is currently an assistant professor in the Department of Electronic Engineering at Inha University. Previously he worked as a Senior AI Scientist at Siemens Healthineers. He received his Ph.D. from the Department of Electrical and Computer Engineering at the University of Michigan in 2020, advised by <a href='https://web.eecs.umich.edu/~fessler/'>Prof. Jeffrey Fessler</a> and <a href='https://medicine.umich.edu/dept/radiology/yuni-dewaraja-phd'>Prof. Yuni Dewaraja</a>. <br><br>        
     </div>
 </div> 
-
-
 <br><br>
 
 ## Current MS student(s)
