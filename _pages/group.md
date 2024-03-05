@@ -95,7 +95,7 @@ nav_order: 3
 <div class="student-container">
     <img class="student-photo" src="/assets/img/kim_ks.jpg" alt="kim_ks" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://'>Kim, Kyung Sub</a><br>
+        <a href='https://www.linkedin.com/in/%EA%B2%BD%EC%84%AD-%EA%B9%80-1759132b8/'>Kim, Kyung Seob</a><br>
         Video synthesis<br>
         2024-<br>
     </div>
