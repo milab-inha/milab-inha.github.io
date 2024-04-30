@@ -14,7 +14,7 @@ nav_order: 5
     - Duration: 2022.06 - 2024.02 <br><br>
 
 
-**인공지능융합혁신인재양성** <br>
+**Artificial Intelligence Convergence Innovation Human Resources Development** <br>
     - Funded by: Institute for Information & communications Technology Planning & evaluation (IITP) <br>
     - Duration: 2022.07 - 2025.12 <br><br>
     
