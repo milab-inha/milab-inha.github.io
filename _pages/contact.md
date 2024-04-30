@@ -11,7 +11,7 @@ nav_order: 6
 **Phone**: +82-32-860-7426 <br>
 
 **Office Address**:  <br>
-Hichtech Center 905 <br>
+Hichtech Center 904 <br>
 Department of Electronic Engineering <br>
 Inha University <br>
 Incheon, South Korea <br><br>
