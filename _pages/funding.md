@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-### Current Projects & Funding Agencies <br><br><br>
+### Current Projects & Funding Agencies <br><br>
 
 **Artificial Intelligence Convergence Innovation Human Resources Development** <br>
     - Funded by: Institute for Information & communications Technology Planning & evaluation (IITP) <br>
@@ -21,10 +21,10 @@ nav_order: 5
       
 **Graduate School of Digital-based Sustainable Energy Process Innovation Convergence** <br>
     - Funded by: Korea Institute of Energy Technology Evaluation and Planning (KETEP) <br>
-    - Duration: 2023.04 - 2027.12 <br><br><br><br>
+    - Duration: 2023.04 - 2027.12 <br><br><br>
     
 
-### Past Projects & Funding Agencies <br><br><br>
+### Past Projects & Funding Agencies <br><br>
 
 **Unifying Image Restoration and Analysis Tasks with an Iterative Neural Networks** <br>
     - Funded by: National Research Foundation of Korea (NRF) <br>
