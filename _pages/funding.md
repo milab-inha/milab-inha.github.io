@@ -11,7 +11,7 @@ nav_order: 5
 
 **Unifying Image Restoration and Analysis Tasks with an Iterative Neural Networks** <br>
     - Funded by: National Research Foundation of Korea (NRF) <br>
-    - Duration: 2022.06 - 2025.02 <br><br>
+    - Duration: 2022.06 - 2024.02 <br><br>
 
 
 **인공지능융합혁신인재양성** <br>
