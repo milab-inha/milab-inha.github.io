@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-### Current Projects & Funding Agencies <br><br>
+### Current Projects & Funding Agencies <br>
 
 **Artificial Intelligence Convergence Innovation Human Resources Development** <br>
     - Funded by: Institute for Information & communications Technology Planning & evaluation (IITP) <br>
@@ -24,7 +24,7 @@ nav_order: 5
     - Duration: 2023.04 - 2027.12 <br><br><br><br>
     
 
-### Past Projects & Funding Agencies <br><br>
+### Past Projects & Funding Agencies <br>
 
 **Unifying Image Restoration and Analysis Tasks with an Iterative Neural Networks** <br>
     - Funded by: National Research Foundation of Korea (NRF) <br>
