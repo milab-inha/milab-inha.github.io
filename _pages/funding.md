@@ -10,18 +10,18 @@ nav_order: 5
 ### Current Grant Support <br>
 **Developing Multimodal Generative AI Talent for Industrial Convergence** <br>
     - Principal Investigator: Donghwan Kim (42Maru) <br>
-    - IITP  <br>
+    - IITP RS-2024-00360227<br>
     - 2024.04 - 2027.12 <br><br>
     
 **Artificial Intelligence Convergence Innovation Human Resources Development** <br>
     - Principal Investigator: In Kyu Park (Inha University) <br>
-    - IITP-2023-RS-2023-00259678  <br>
+    - IITP RS-2023-00259678  <br>
     - 2022.07 - 2025.12 <br><br>
     
       
 **Innovative Human Resource Development for Local Intellectualization Support Program** <br>
     - Principal Investigator: Jaehyun Park (Inha University) <br>
-    - IITP-2023-RS-2023-00259678 <br>
+    - IITP RS-2023-00259678 <br>
     - 2023.07 - 2030.12 <br><br>
 
       
@@ -35,7 +35,7 @@ nav_order: 5
 
 **Unifying Image Restoration and Analysis Tasks with an Iterative Neural Networks** <br>
     - Principal Investigator: Hongki Lim <br>
-    - NRF MSIT 2022R1F1A1069055 <br>
+    - NRF 2022R1F1A1069055 <br>
     - 2022.06 - 2024.02 <br><br>
 
   
