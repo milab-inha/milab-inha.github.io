@@ -9,10 +9,10 @@ nav_order: 4
 ## Undergraduate Courses
 
 **Linear Algebra** <br>
-Semester: Spring 2022, Spring 2023<br>
+Semester: Spring 2022, Spring 2023, Spring 2024<br>
 
 **Electromagnetics** <br>
-Semester: Spring 2022, Spring 2023<br>
+Semester: Spring 2022, Spring 2023, Spring 2024<br>
 
 **Introduction to Machine Learning** <br>
 Semester: Fall 2022, Fall 2023<br>
