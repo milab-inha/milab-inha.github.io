@@ -33,7 +33,7 @@ nav_order: 5
 
 ### Past Grant Support <br>
 
-**(Individual) Unifying Image Restoration and Analysis Tasks with an Iterative Neural Networks** <br>
+**Unifying Image Restoration and Analysis Tasks with an Iterative Neural Networks** <br>
     - Principal Investigator: Hongki Lim 
     - Funded by: National Research Foundation of Korea (NRF) <br>
     - Duration: 2022.06 - 2024.02 <br><br>
