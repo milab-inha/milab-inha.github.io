@@ -66,9 +66,9 @@ social: False  # includes social icons at the bottom of the page
         Research Focus:
         <ul>
              <li>Deep Generative Model </li>
-             <li>Computer Vision </li>
-             <li>Image Processing </li>
+             <li>Computer Vision </li>             
              <li>Inverse Problem </li>
+             <li>Multimodal AI (Language & Vision) </li>
         </ul>
     </div>
 </div>
