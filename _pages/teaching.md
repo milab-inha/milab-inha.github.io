@@ -17,7 +17,7 @@ Semester: Spring 2022, Spring 2023, Spring 2024<br>
 **Introduction to Machine Learning** <br>
 Semester: Fall 2022, Fall 2023<br>
 
-**Deep Learning** <br>
+**Deep Neural Network** <br>
 Semester: Fall 2022, Fall 2023<br>
 
 ## Graduate Courses
