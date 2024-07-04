@@ -50,7 +50,7 @@ social: False  # includes social icons at the bottom of the page
 
 <p style="font-size: 0.8em;">
     affilated with the <a href='https://ee.inha.ac.kr/ee/index.do'>EE Department</a> at <a href='https://www.inha.ac.kr/'>Inha University</a> <br> 
-    located in Hightech Center, Room 1001 <br><br>
+    located in Hightech Center, Room 901 <br><br>
 </p>
 
 <div style="overflow: auto;">
@@ -66,8 +66,8 @@ social: False  # includes social icons at the bottom of the page
         Research Focus:
         <ul>
              <li>Deep Generative Model </li>
-             <li>Computer Vision </li>             
-             <li>Inverse Problem </li>
+             <li>Inverse Problem  </li>             
+             <li>3D Vision </li>
              <li>Multimodal AI (Language & Vision) </li>
         </ul>
     </div>
