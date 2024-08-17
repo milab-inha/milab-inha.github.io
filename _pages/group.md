@@ -77,7 +77,7 @@ nav_order: 3
 <div class="student-container">
     <img class="student-photo" src="/assets/img/yoon_sh.jpg" alt="yoon_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/dlghks629'>Yoon, Sunghwan</a><br>
+        <a href='https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9C%A4-ba7435216/'>Yoon, Sunghwan</a><br>
         Video synthesis<br>
     </div>
 </div>
@@ -134,7 +134,7 @@ nav_order: 3
 <div class="student-container">
     <img class="student-photo" src="/assets/img/lee_kg.jpg" alt="lee_kg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Lee, Kyung Kyu</a><br>
+        <a href='https://www.linkedin.com/in/경규-이-362548323'>Lee, Kyung Kyu</a><br>
         Image captioning<br>
         2024-<br>
     </div>
