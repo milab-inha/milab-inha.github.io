@@ -132,7 +132,7 @@ nav_order: 3
     </div>
 </div>
 <div class="student-container">
-    <img class="student-photo" src="/assets/img/lee_kg.jpg" alt="lee_kg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/lee_kk.jpg" alt="lee_kk" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/경규-이-362548323'>Lee, Kyung Kyu</a><br>
         Image captioning<br>
