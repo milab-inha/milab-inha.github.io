@@ -75,7 +75,7 @@ nav_order: 3
     </div>
 </div>
 <div class="student-container">
-    <img class="student-photo" src="/assets/img/yoon_sh.jpg" alt="yoon_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/yoon_sh.png" alt="yoon_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9C%A4-ba7435216/'>Yoon, Sunghwan</a><br>
         Video synthesis<br>
