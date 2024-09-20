@@ -92,14 +92,6 @@ nav_order: 3
     </div>
 </div>
 <div class="student-container">
-    <img class="student-photo" src="/assets/img/kim_ks.jpg" alt="kim_ks" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/%EA%B2%BD%EC%84%AD-%EA%B9%80-1759132b8/'>Kim, Kyung Seob</a><br>
-        Video synthesis<br>
-        2024-<br>
-    </div>
-</div>
-<div class="student-container">
     <img class="student-photo" src="/assets/img/jeon_ms.jpg" alt="jeon_ms" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/%ED%95%99%EC%83%9D-%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99-%EC%A0%84%EB%AF%BC%EC%88%98-3445a62b8/'>Jeon, Minsu</a><br>
