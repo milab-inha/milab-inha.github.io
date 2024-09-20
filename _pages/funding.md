@@ -8,6 +8,12 @@ nav_order: 5
 ---
 
 ### Current Grant Support <br>
+
+**GPU Server for Research on Medical Image Report Generation Using Diffusion Model-based Image Synthesis** <br>
+    - Principal Investigator: Hongki Lim <br>
+    - NFEC RS-2024-00401899<br>
+    - 2024.05 - 2025.04 <br><br>
+    
 **Developing Multimodal Generative AI Talent for Industrial Convergence** <br>
     - Principal Investigator: Donghwan Kim (42Maru) <br>
     - IITP RS-2024-00360227<br>
