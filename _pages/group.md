@@ -87,7 +87,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/kim_jh.jpg" alt="kim_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/종하-김-4253312b8/'>Kim, Jongha</a><br>
-        Image captioning<br>
+        Video synthesis<br>
         2024-<br>
     </div>
 </div>
