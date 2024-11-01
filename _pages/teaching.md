@@ -25,5 +25,5 @@ Semester: Fall 2022, Fall 2023, Fall 2024<br>
 **Deep Generative Models** <br>
 Semester: Fall 2023
 
-**Generative Artificail Intelligence** <br>
+**Generative Artificial Intelligence** <br>
 Semester: Fall 2024
