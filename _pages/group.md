@@ -81,8 +81,54 @@ nav_order: 3
         Image captioning<br>
     </div>
 </div>
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/kim_db.jpg" alt="kim_db" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/학생-전자공학-김다빈-24951a2b8'>Kim, Dabin</a><br>
+        3D reconstruction<br>
+        2024-<br>
+    </div>
+</div>
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/lee_kk.jpg" alt="lee_kk" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/경규-이-362548323'>Lee, Kyung Kyu</a><br>
+        Image captioning<br>
+        2024-<br>
+    </div>
+</div>
 <br>
+
 ## Undergraduate researchers
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
+        3D reconstruction<br>
+        2024-<br>
+    </div>
+</div>
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dong Min</a><br>
+        3D reconstruction, Logistics<br>
+        2024-<br>
+    </div>
+</div>
+<br>
+
+## Prospective Member {#prospective}
+
+Thank you for your interest in the research at MI Lab. <br>
+
+To understand the current projects in MI Lab, please refer to our recent journal and conference <a href='https://milab-inha.github.io/publications'>papers</a>. However, every member of my group is unique and I work with each person to find projects that suit their interests. <br>
+
+While much of our past work has centered on medical imaging, our vision for the future is broadening. We are leaning into general machine learning challenges, with a special focus on deep generative models and computer vision problems. <br>
+
+If you are interested in doing research with us, send me an [email](mailto:hklim@inha.ac.kr) with your CV and/or transcript.
+
+## Past Undergraduate researchers
 <div class="student-container">
     <img class="student-photo" src="/assets/img/kim_jh.jpg" alt="kim_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -99,50 +145,6 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<div class="student-container">
-    <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
-        3D reconstruction<br>
-        2024-<br>
-    </div>
-</div>
-<div class="student-container">
-    <img class="student-photo" src="/assets/img/kim_db.jpg" alt="kim_db" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/학생-전자공학-김다빈-24951a2b8'>Kim, Dabin</a><br>
-        3D reconstruction<br>
-        2024-<br>
-    </div>
-</div>
-<div class="student-container">
-    <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dong Min</a><br>
-        3D reconstruction, Logistics<br>
-        2024-<br>
-    </div>
-</div>
-<div class="student-container">
-    <img class="student-photo" src="/assets/img/lee_kk.jpg" alt="lee_kk" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/경규-이-362548323'>Lee, Kyung Kyu</a><br>
-        Image captioning<br>
-        2024-<br>
-    </div>
-</div>
-<br>
-
-## Prospective Member {#prospective}
-
-Thank you for your interest in the research at MI Lab. <br>
-
-To understand the current projects in MI Lab, please refer to our recent journal and conference <a href='https://milab-inha.github.io/publications'>papers</a>. However, every member of my group is unique and I work with each person to find projects that suit their interests. <br>
-
-While much of our past work has centered on medical imaging, our vision for the future is broadening. We are leaning into general machine learning challenges, with a special focus on deep generative models and computer vision problems. <br>
-
-If you are interested in doing research with us, send me an [email](mailto:hklim@inha.ac.kr) with your CV and/or transcript.
-
 
 <!--
 ## Master's Students
