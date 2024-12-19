@@ -134,7 +134,7 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
     <div class="student-text">
         <a href='https://www.linkedin.com/in/종하-김-4253312b8/'>Kim, Jongha</a><br>
         Video synthesis<br>
-        2024-<br>
+        2024-2024<br>
     </div>
 </div>
 <div class="student-container">
@@ -142,7 +142,7 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
     <div class="student-text">
         <a href='https://www.linkedin.com/in/%ED%95%99%EC%83%9D-%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99-%EC%A0%84%EB%AF%BC%EC%88%98-3445a62b8/'>Jeon, Minsu</a><br>
         Inverse problem<br>
-        2024-<br>
+        2024-2024<br>
     </div>
 </div>
 
