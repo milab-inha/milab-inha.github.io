@@ -23,13 +23,6 @@ nav_order: 5
     - PI: In Kyu Park (Inha University) <br>
     - IITP RS-2023-00259678  <br>
     - 2022.07 - 2025.12 <br><br>
-    
-      
-**Innovative Human Resource Development for Local Intellectualization Support Program** <br>
-    - PI: Jaehyun Park (Inha University) <br>
-    - IITP RS-2023-00259678 <br>
-    - 2023.07 - 2030.12 <br><br>
-
       
 **Graduate School of Digital-based Sustainable Energy Process Innovation Convergence** <br>
     - PI: Sungwon Hwang (Inha University) <br>
@@ -43,5 +36,10 @@ nav_order: 5
     - PI: Hongki Lim <br>
     - NRF 2022R1F1A1069055 <br>
     - 2022.06 - 2024.02 <br><br>
+
+**Innovative Human Resource Development for Local Intellectualization Support Program** <br>
+    - PI: Jaehyun Park (Inha University) <br>
+    - IITP RS-2023-00259678 <br>
+    - 2023.07 - 2024.12 <br><br>
 
   
