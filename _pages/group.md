@@ -71,7 +71,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dlghks629'>Lee, Hwan</a><br>
-        Video synthesis<br>
+        Video inverse problem<br>
     </div>
 </div>
 <div class="student-container">
@@ -85,7 +85,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/kim_db.jpg" alt="kim_db" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/학생-전자공학-김다빈-24951a2b8'>Kim, Dabin</a><br>
-        3D reconstruction<br>
+        3D reconstruction and analysis <br>
     </div>
 </div>
 <div class="student-container">
@@ -102,7 +102,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
-        3D reconstruction<br>
+        3D reconstruction and analysis <br>
         2024-<br>
     </div>
 </div>
@@ -110,7 +110,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dong Min</a><br>
-        3D reconstruction, Logistics<br>
+        Logistics<br>
         2024-<br>
     </div>
 </div>
