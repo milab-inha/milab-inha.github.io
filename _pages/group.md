@@ -86,7 +86,6 @@ nav_order: 3
     <div class="student-text">
         <a href='https://www.linkedin.com/in/학생-전자공학-김다빈-24951a2b8'>Kim, Dabin</a><br>
         3D reconstruction<br>
-        2024-<br>
     </div>
 </div>
 <div class="student-container">
@@ -94,7 +93,6 @@ nav_order: 3
     <div class="student-text">
         <a href='https://www.linkedin.com/in/경규-이-362548323'>Lee, Kyung Kyu</a><br>
         Image captioning<br>
-        2024-<br>
     </div>
 </div>
 <br>
