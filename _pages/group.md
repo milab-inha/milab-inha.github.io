@@ -77,7 +77,7 @@ nav_order: 3
 <div class="student-container">
     <img class="student-photo" src="/assets/img/yoon_sh.png" alt="yoon_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9C%A4-ba7435216/'>Yoon, Sunghwan</a><br>
+        <a href='https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9C%A4-ba7435216/'>Yoon, Seonghwan</a><br>
         Image captioning<br>
     </div>
 </div>
@@ -91,7 +91,7 @@ nav_order: 3
 <div class="student-container">
     <img class="student-photo" src="/assets/img/lee_kk.jpg" alt="lee_kk" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/경규-이-362548323'>Lee, Kyung Kyu</a><br>
+        <a href='https://www.linkedin.com/in/경규-이-362548323'>Lee, Kyeong Kyu</a><br>
         Image captioning<br>
     </div>
 </div>
@@ -110,6 +110,14 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dong Min</a><br>
+        Logistics<br>
+        2024-<br>
+    </div>
+</div>
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/hy_kim.jpg" alt="hy_kim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='www.linkedin.com/in/학생-전기전자공학-김홍열-9919a736b'>Kim, Hong Youl</a><br>
         Logistics<br>
         2024-<br>
     </div>
