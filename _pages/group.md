@@ -118,7 +118,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/hy_kim.png" alt="hy_kim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='www.linkedin.com/in/학생-전기전자공학-김홍열-9919a736b'>Kim, Hong Youl</a><br>
-        Logistics<br>
+        Generative Model<br>
         2024-<br>
     </div>
 </div>
