@@ -107,7 +107,7 @@ nav_order: 3
 </div>
 <br>
 
-## Undergraduate researchers
+## Undergraduate researcher(s)
 <div class="student-container">
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
