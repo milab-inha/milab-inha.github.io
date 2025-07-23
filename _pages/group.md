@@ -59,6 +59,16 @@ nav_order: 3
 </div> 
 <br><br>
 
+## Current PhD student(s)
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
+        Image reconstruction and analysis <br>
+        2024-<br>
+    </div>
+</div>
+
 ## Current MS student(s)
 <div class="student-container">
     <img class="student-photo" src="/assets/img/kim_mw.JPG" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
@@ -98,14 +108,6 @@ nav_order: 3
 <br>
 
 ## Undergraduate researchers
-<div class="student-container">
-    <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
-        3D reconstruction and analysis <br>
-        2024-<br>
-    </div>
-</div>
 <div class="student-container">
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
