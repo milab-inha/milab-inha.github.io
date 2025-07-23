@@ -65,7 +65,6 @@ nav_order: 3
     <div class="student-text">
         <a href='https://www.linkedin.com/in/shinseunghyeok/'>Shin, Seunghyeok</a><br>
         Image reconstruction and analysis <br>
-        2024-<br>
     </div>
 </div>
 
