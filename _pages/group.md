@@ -120,7 +120,7 @@ nav_order: 3
     <div class="student-text">
         <a href='www.linkedin.com/in/홍열-김-90971a3adb'>Kim, Hong Youl</a><br>
         Generative Model<br>
-        2024-<br>
+        2025-<br>
     </div>
 </div>
 <br>
