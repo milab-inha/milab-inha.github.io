@@ -54,7 +54,7 @@ nav_order: 3
 <div style="overflow: auto;">
     <img class="professor-photo" src="/assets/img/hongki-photo2.jpg" alt="Hongki Lim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="professor-text">
-        Hongki Lim is currently an assistant professor in the <a href='https://ee.inha.ac.kr/'>Department of Electrical and Electronic Engineering</a> at Inha University. He received his Ph.D. from the Department of Electrical and Computer Engineering at the University of Michigan in 2020, advised by <a href='https://web.eecs.umich.edu/~fessler/'>Prof. Jeffrey Fessler</a> and <a href='https://medicine.umich.edu/dept/radiology/yuni-dewaraja-phd'>Prof. Yuni Dewaraja</a>. From 2012 and 2015, he was with the Strategic Planning Team, Samsung Electronics, Yongin, South Korea. From 2020 to 2022, he was a Senior AI Scientist with Siemens Healthineers, Princeton <br><br>        
+        Hongki Lim is currently an assistant professor in the <a href='https://ee.inha.ac.kr/'>Department of Electrical and Electronic Engineering</a> at Inha University. He received his Ph.D. from the Department of Electrical and Computer Engineering at the University of Michigan in 2020, advised by <a href='https://web.eecs.umich.edu/~fessler/'>Prof. Jeffrey Fessler</a> and <a href='https://medicine.umich.edu/dept/radiology/yuni-dewaraja-phd'>Prof. Yuni Dewaraja</a>. From 2012 and 2015, he was with the Strategic Planning Team, Samsung Electronics, Yongin, South Korea. From 2020 to 2022, he was a Senior AI Scientist with Siemens Healthineers, Princeton. <br><br>        
     </div>
 </div> 
 <br><br>
