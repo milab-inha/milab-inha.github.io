@@ -67,6 +67,7 @@ nav_order: 3
         Image reconstruction and analysis <br>
     </div>
 </div>
+<br>
 
 ## Current MS student(s)
 <div class="student-container">
