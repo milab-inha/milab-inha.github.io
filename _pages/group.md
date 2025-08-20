@@ -59,7 +59,7 @@ nav_order: 3
 </div> 
 <br><br>
 
-## Current PhD student(s)
+## Current MS-PhD student(s)
 <div class="student-container">
     <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
