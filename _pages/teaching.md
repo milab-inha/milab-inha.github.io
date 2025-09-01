@@ -11,7 +11,7 @@ nav_order: 4
 **Linear Algebra** <br>
 Semester: Spring 2022, Spring 2023, Spring 2024, Spring 2025<br>
 
-**Random Variable** <br>
+**Random Variables** <br>
 Semester: Fall 2025<br>
 
 **Electromagnetics** <br>
