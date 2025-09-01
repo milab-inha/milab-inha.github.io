@@ -9,10 +9,10 @@ nav_order: 5
 
 ### Current Grant Support <br>
 
-**GPU Server for Research on Medical Image Report Generation Using Diffusion Model-based Image Synthesis** <br>
+**Diffusion Models in Gaussian Space for 3D Medical Imaging Reconstruction** <br>
     - PI: Hongki Lim <br>
-    - NFEC RS-2024-00401899<br>
-    - 2024.05 - 2025.04 <br><br>
+    - NRF RS-2025-24683103<br>
+    - 2025.09 - 2026.08 <br><br>
     
 **Developing Multimodal Generative AI Talent for Industrial Convergence** <br>
     - PI: Donghwan Kim (42Maru) <br>
@@ -32,6 +32,11 @@ nav_order: 5
 
 ### Past Grant Support <br>
 
+**GPU Server for Research on Medical Image Report Generation Using Diffusion Model-based Image Synthesis** <br>
+    - PI: Hongki Lim <br>
+    - NFEC RS-2024-00401899<br>
+    - 2024.05 - 2025.04 <br><br>
+    
 **Unifying Image Restoration and Analysis Tasks with an Iterative Neural Networks** <br>
     - PI: Hongki Lim <br>
     - NRF 2022R1F1A1069055 <br>
