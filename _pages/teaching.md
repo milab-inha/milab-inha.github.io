@@ -21,7 +21,7 @@ Semester: Spring 2022, Spring 2023, Spring 2024<br>
 Semester: Fall 2022, Fall 2023, Fall 2024, Spring 2025<br>
 
 **Deep Learning** <br>
-Semester: Fall 2022, Fall 2023, Fall 2024, Fall 2024<br>
+Semester: Fall 2022, Fall 2023, Fall 2024, Fall 2025<br>
 
 ## Graduate Courses
 
