@@ -125,7 +125,7 @@ nav_order: 3
     </div>
 </div>
 <div class="student-container">
-    <img class="student-photo" src="/assets/img/sj_an.png" alt="sj_an" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/sj_an.jpg" alt="sj_an" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/sangjun-an-178139361'>Sangjun, An</a><br>
         Generative model<br>
