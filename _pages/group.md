@@ -119,12 +119,22 @@ nav_order: 3
 <div class="student-container">
     <img class="student-photo" src="/assets/img/hy_kim.png" alt="hy_kim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='www.linkedin.com/in/홍열-김-90971a3adb'>Kim, Hong Youl</a><br>
+        <a href='https://www.linkedin.com/in/홍열-김-90971a3adb'>Kim, Hong Youl</a><br>
+        Generative model<br>
+        2025-<br>
+    </div>
+</div>
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/sj_an.png" alt="sj_an" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/sangjun-an-178139361'>Sangjun, An</a><br>
         Generative model<br>
         2025-<br>
     </div>
 </div>
 <br>
+
+
 
 ## Prospective Member {#prospective}
 
