@@ -120,15 +120,15 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/hy_kim.png" alt="hy_kim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/홍열-김-90971a3adb'>Kim, Hong Youl</a><br>
-        Generative model<br>
+        Causal model<br>
         2025-<br>
     </div>
 </div>
 <div class="student-container">
     <img class="student-photo" src="/assets/img/sj_an.jpg" alt="sj_an" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/sangjun-an-178139361'>Sangjun, An</a><br>
-        Generative model<br>
+        <a href='https://www.linkedin.com/in/sangjun-an-178139361'>An, Sangjun</a><br>
+        Causal model<br>
         2025-<br>
     </div>
 </div>
