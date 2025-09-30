@@ -1,0 +1,11 @@
+<li id="{{ entry.key }}">
+  {%- assign ref = reference -%}
+  {%- if entry.pubstate and entry.pubstate == 'to appear' -%}
+    {%- comment -%} Insert “To appear in” before the first “In …” {%- endcomment -%}
+    {%- assign ref = ref
+      | replace: '. In <i>',  '. To appear in <i>'
+      | replace: '. In <em>', '. To appear in <em>'
+      | replace: '. In ',     '. To appear in ' -%}
+  {%- endif -%}
+  {{ ref }}
+</li>
