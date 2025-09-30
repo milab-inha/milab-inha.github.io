@@ -19,9 +19,6 @@ A: Conference abstracts <br>
 
 <div class="publications">
 
-  {% bibliography -f {{ site.scholar.bibliography }} --template '{{ reference
-  | replace_first: ". In <i>",  ". To appear in <i>"
-  | replace_first: ". In <em>", ". To appear in <em>"
-  | replace_first: ". In ",     ". To appear in " }}' %}
+  {% bibliography -f {{ site.scholar.bibliography }} 
 
 </div> 
