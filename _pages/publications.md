@@ -7,13 +7,9 @@ nav: true
 nav_order: 2
 ---
 <style>
-  .publications .badge-spotlight {
-    color: #e74c3c;        /* reddish orange like your screenshot */
-    font-weight: 700;
-  }
-  /* Auto-wrap in parentheses, like "(Spotlight Presentation)" */
-  .publications .badge-spotlight::before { content: "("; }
-  .publications .badge-spotlight::after  { content: ")"; }
+  .publications .badge-spotlight { color:#e74c3c; font-weight:700; }
+  .publications .badge-spotlight::before { content:"("; }
+  .publications .badge-spotlight::after  { content:")"; }
 </style>
 <!-- _pages/publications.md -->
 Categories: <br>
