@@ -14,7 +14,7 @@ nav_order: 5
     - NRF RS-2025-24683103<br>
     - 2025.09 - 2026.08 <br><br>
 
-**Pioneer Program in Next-generation Artificial Intelligence for Industrial Convergence**
+**Pioneer Program in Next-generation Artificial Intelligence for Industrial Convergence** <br>
     - PI: Byung Cheol Song (Inha University) <br>
     - BK21 4단계 <br>
     - 2024.09 - 2027.08 <br><br>
