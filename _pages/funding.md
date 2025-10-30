@@ -13,6 +13,11 @@ nav_order: 5
     - PI: Hongki Lim <br>
     - NRF RS-2025-24683103<br>
     - 2025.09 - 2026.08 <br><br>
+
+**Pioneer Program in Next-generation Artificial Intelligence for Industrial Convergence**
+    - PI: Byung Cheol Song (Inha University) <br>
+    - BK21 4단계 <br>
+    - 2024.09 - 2027.08 <br><br>
     
 **Developing Multimodal Generative AI Talent for Industrial Convergence** <br>
     - PI: Donghwan Kim (42Maru) <br>
@@ -22,7 +27,7 @@ nav_order: 5
 **Artificial Intelligence Convergence Innovation Human Resources Development** <br>
     - PI: In Kyu Park (Inha University) <br>
     - IITP RS-2023-00259678  <br>
-    - 2022.07 - 2025.12 <br><br>
+    - 2023.09 - 2025.12 <br><br>
       
 **Graduate School of Digital-based Sustainable Energy Process Innovation Convergence** <br>
     - PI: Sungwon Hwang (Inha University) <br>
