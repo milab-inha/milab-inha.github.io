@@ -125,7 +125,6 @@ nav_order: 3
     <div class="student-text">
         <a href='https://www.linkedin.com/in/sangjun-an-178139361'>An, Sangjun</a><br>
         Causal reasoning<br>
-        2025-<br>
     </div>
 </div>
 <br>
