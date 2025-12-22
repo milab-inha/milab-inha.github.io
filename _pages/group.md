@@ -114,7 +114,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/woo_jh.jpg" alt="woo_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/경규-이-362548323'>Woo, Jinhyung</a><br>
-        Image captioning<br>
+        Causal reasoning<br>
     </div>
 </div>
 <br>
