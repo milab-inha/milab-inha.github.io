@@ -183,7 +183,7 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
     <div class="student-text">
         <a href='https://www.linkedin.com/in/홍열-김-90971a3adb'>Kim, Hong Youl</a><br>
         Causal model<br>
-        2025-<br>
+        2025-2025
     </div>
 </div>
 
