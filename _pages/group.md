@@ -86,14 +86,14 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dlghks629'>Lee, Hwan</a><br>
-        Video inverse problem<br>
+        Blind image inverse problem<br>
     </div>
 </div>
 <div class="student-container">
     <img class="student-photo" src="/assets/img/yoon_sh.png" alt="yoon_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9C%A4-ba7435216/'>Yoon, Seonghwan</a><br>
-        Image captioning<br>
+        Medical image captioning, Vehicle routing problem<br>
     </div>
 </div>
 <div class="student-container">
@@ -107,7 +107,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/lee_kk.jpg" alt="lee_kk" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/경규-이-362548323'>Lee, Kyeong Kyu</a><br>
-        Image captioning<br>
+        Medical image captioning<br>
     </div>
 </div>
 <div class="student-container">
