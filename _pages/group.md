@@ -160,6 +160,9 @@ While much of our past work has centered on medical imaging, our vision for the 
 
 If you are interested in doing research with us, send me an [email](mailto:hklim@inha.ac.kr) with your CV and/or transcript.
 
+<br>
+<br>
+<br>
 ## Past Undergraduate researchers
 <div class="student-container">
     <img class="student-photo" src="/assets/img/kim_jh.jpg" alt="kim_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
