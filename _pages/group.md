@@ -113,7 +113,7 @@ nav_order: 3
 <div class="student-container">
     <img class="student-photo" src="/assets/img/woo_jh.jpg" alt="woo_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/경규-이-362548323'>Woo, Jinhyung</a><br>
+        <a href='https://www.linkedin.com/in/진형-우-0647053a1'>Woo, Jinhyoung</a><br>
         Causal reasoning<br>
     </div>
 </div>
