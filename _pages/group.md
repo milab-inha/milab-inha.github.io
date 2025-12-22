@@ -59,6 +59,18 @@ nav_order: 3
 </div> 
 <br><br>
 
+
+## Current PhD student(s)
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/kim_mw.JPG" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/민우-김-414aba2a3/'>Kim, Minwoo</a><br>
+        Inverse problem<br>
+    </div>
+</div>
+<br>
+
+
 ## Current MS-PhD student(s)
 <div class="student-container">
     <img class="student-photo" src="/assets/img/shin_sh.jpg" alt="shin_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
@@ -70,13 +82,6 @@ nav_order: 3
 <br>
 
 ## Current MS student(s)
-<div class="student-container">
-    <img class="student-photo" src="/assets/img/kim_mw.JPG" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/민우-김-414aba2a3/'>Kim, Minwoo</a><br>
-        Inverse problem<br>
-    </div>
-</div>
 <div class="student-container">
     <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
@@ -105,6 +110,24 @@ nav_order: 3
         Image captioning<br>
     </div>
 </div>
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/woo_jh.jpg" alt="woo_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/경규-이-362548323'>Woo, Jinhyung</a><br>
+        Image captioning<br>
+    </div>
+</div>
+<br>
+
+## Current Undergraduate-MS student(s)
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/sj_an.jpg" alt="sj_an" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/sangjun-an-178139361'>An, Sangjun</a><br>
+        Causal reasoning<br>
+        2025-<br>
+    </div>
+</div>
 <br>
 
 ## Undergraduate researcher(s)
@@ -117,19 +140,11 @@ nav_order: 3
     </div>
 </div>
 <div class="student-container">
-    <img class="student-photo" src="/assets/img/hy_kim.png" alt="hy_kim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <img class="student-photo" src="/assets/img/han_sm.jpg" alt="han_sm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/홍열-김-90971a3adb'>Kim, Hong Youl</a><br>
-        Causal model<br>
-        2025-<br>
-    </div>
-</div>
-<div class="student-container">
-    <img class="student-photo" src="/assets/img/sj_an.jpg" alt="sj_an" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/sangjun-an-178139361'>An, Sangjun</a><br>
-        Causal model<br>
-        2025-<br>
+        <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Han, Sangmin</a><br>
+        Causal reasoning<br>
+        2024-<br>
     </div>
 </div>
 <br>
@@ -163,22 +178,14 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
         2024-2024<br>
     </div>
 </div>
-
-<!--
-## Master's Students
-
-## Undergraduate Researchers
-
-### 김철수 
-
-<div style="display: flex; align-items: start;">
-    <img src="/assets/img/hongki-photo.jpg" alt="Hongki Lim" style="width: 150px; margin-right: 20px;">
-    <div>
-        <strong>Research Interest:</strong> 
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/hy_kim.png" alt="hy_kim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/홍열-김-90971a3adb'>Kim, Hong Youl</a><br>
+        Causal model<br>
+        2025-<br>
     </div>
 </div>
-
--->
 
 
 
