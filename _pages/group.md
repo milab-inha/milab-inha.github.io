@@ -133,7 +133,7 @@ nav_order: 3
 <div class="student-container">
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
-        <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dong Min</a><br>
+        <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dongmin</a><br>
         Generative model for logistics<br>
         2024-<br>
     </div>
