@@ -143,7 +143,7 @@ nav_order: 3
     <div class="student-text">
         <a href='https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%ED%95%9C-588731392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'>Han, Sangmin</a><br>
         Causal reasoning<br>
-        2024-<br>
+        2025-<br>
     </div>
 </div>
 <br>
