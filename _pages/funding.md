@@ -22,13 +22,8 @@ nav_order: 5
 **Developing Multimodal Generative AI Talent for Industrial Convergence** <br>
     - PI: Donghwan Kim (42Maru) <br>
     - IITP RS-2024-00360227<br>
-    - 2024.04 - 2027.12 <br><br>
+    - 2024.04 - 2027.12 <br><br>   
     
-**Artificial Intelligence Convergence Innovation Human Resources Development** <br>
-    - PI: In Kyu Park (Inha University) <br>
-    - IITP RS-2023-00259678  <br>
-    - 2023.09 - 2025.12 <br><br>
-      
 **Graduate School of Digital-based Sustainable Energy Process Innovation Convergence** <br>
     - PI: Sungwon Hwang (Inha University) <br>
     - KETEP RS-2023-00243974<br>
@@ -37,6 +32,11 @@ nav_order: 5
 
 ### Past Grant Support <br>
 
+**Artificial Intelligence Convergence Innovation Human Resources Development** <br>
+    - PI: In Kyu Park (Inha University) <br>
+    - IITP RS-2023-00259678  <br>
+    - 2023.09 - 2025.12 <br><br>
+    
 **GPU Server for Research on Medical Image Report Generation Using Diffusion Model-based Image Synthesis** <br>
     - PI: Hongki Lim <br>
     - NFEC RS-2024-00401899<br>
