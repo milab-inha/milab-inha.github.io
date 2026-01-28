@@ -138,14 +138,14 @@ nav_order: 3
         2024-<br>
     </div>
 </div>
-<div class="student-container">
+<!-- <div class="student-container">
     <img class="student-photo" src="/assets/img/han_sm.jpeg" alt="han_sm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%ED%95%9C-588731392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'>Han, Sangmin</a><br>
         Causal reasoning<br>
         2025-<br>
     </div>
-</div>
+</div> -->
 <br>
 
 
