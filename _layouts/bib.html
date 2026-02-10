@@ -127,19 +127,19 @@
           {%- endif -%}
         {%- endif -%}
 
-        {%- if entry.note or venue_name or pub_year -%}
+        {%- if venue_name or pub_year or entry.note -%}
           <div class="periodical">
-            {%- if entry.note -%}
-              {{ entry.note | strip }}
-              {%- if venue_name or pub_year -%}<br>{%- endif -%}
-            {%- endif -%}
-
             {%- if venue_name -%}
               <em>{{ venue_name | strip }}</em>
             {%- endif -%}
 
             {%- if pub_year -%}
               <span class="year"> ({{ pub_year }})</span>
+            {%- endif -%}
+
+            {%- if entry.note -%}
+              {%- if venue_name or pub_year -%}<br>{%- endif -%}
+              <span class="note">{{ entry.note | strip }}</span>
             {%- endif -%}
           </div>
         {%- endif -%}
