@@ -107,11 +107,31 @@
 
         </div>
 
+        {%- assign venue_name = nil -%}
 
-        {%- if entry.note -%}
-        <div class="periodical">
-          {{ entry.note | strip }}
-        </div>
+        {%- if entry.journal and entry.journal != blank -%}
+          {%- assign venue_name = entry.journal -%}
+        {%- elsif entry.booktitle and entry.booktitle != blank -%}
+          {%- assign venue_name = entry.booktitle -%}
+        {%- elsif entry.venue and entry.venue != blank -%}
+          {%- assign venue_name = entry.venue -%}
+        {%- elsif entry.organization and entry.organization != blank -%}
+          {%- assign venue_name = entry.organization -%}
+        {%- elsif entry.publisher and entry.publisher != blank -%}
+          {%- assign venue_name = entry.publisher -%}
+        {%- endif -%}
+
+        {%- if entry.note or venue_name -%}
+          <div class="periodical">
+            {%- if entry.note -%}
+              {{ entry.note | strip }}
+              {%- if venue_name -%}<br>{%- endif -%}
+            {%- endif -%}
+
+            {%- if venue_name -%}
+              <em>{{ venue_name | strip }}</em>
+            {%- endif -%}
+          </div>
         {%- endif -%}
 
           <!-- Links/Buttons -->
