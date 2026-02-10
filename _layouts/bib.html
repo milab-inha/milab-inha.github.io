@@ -108,7 +108,6 @@
         </div>
 
         {%- assign venue_name = nil -%}
-
         {%- if entry.journal and entry.journal != blank -%}
           {%- assign venue_name = entry.journal -%}
         {%- elsif entry.booktitle and entry.booktitle != blank -%}
@@ -121,15 +120,26 @@
           {%- assign venue_name = entry.publisher -%}
         {%- endif -%}
 
-        {%- if entry.note or venue_name -%}
+        {%- assign pub_year = entry.year -%}
+        {%- if pub_year == nil or pub_year == blank -%}
+          {%- if entry.date and entry.date != blank -%}
+            {%- assign pub_year = entry.date | slice: 0, 4 -%}
+          {%- endif -%}
+        {%- endif -%}
+
+        {%- if entry.note or venue_name or pub_year -%}
           <div class="periodical">
             {%- if entry.note -%}
               {{ entry.note | strip }}
-              {%- if venue_name -%}<br>{%- endif -%}
+              {%- if venue_name or pub_year -%}<br>{%- endif -%}
             {%- endif -%}
 
             {%- if venue_name -%}
               <em>{{ venue_name | strip }}</em>
+            {%- endif -%}
+
+            {%- if pub_year -%}
+              <span class="year"> ({{ pub_year }})</span>
             {%- endif -%}
           </div>
         {%- endif -%}
