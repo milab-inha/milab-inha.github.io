@@ -167,9 +167,9 @@
           {%- endif %}
 
           {% if entry.openreview %}
-            <a href="{{ entry.openreview }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">OpenReview</span>
-            </a>
+              <a href="{{ entry.openreview }}" class="btn btn-sm z-depth-0" role="button">
+                <span style="text-transform:none !important;">OpenReview</span>
+              </a>
           {% endif %}
 
           {% if entry.demo %}
@@ -186,24 +186,24 @@
 
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Bib</span>
+              <span style="text-transform:none !important;">bibtex</span>
             </a>
           {%- endif %}
 
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Html</span>
+              <span style="text-transform:none !important;">HTML</span>
             </a>
           {%- endif -%}
 
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Pdf</span>
+              <span style="text-transform:none !important;">PDF</span>
             </a>
             {%- else -%}
             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Pdf</span>
+              <span style="text-transform:none !important;">PDF</span>
             </a>
             {%- endif %}
           {%- endif %}
