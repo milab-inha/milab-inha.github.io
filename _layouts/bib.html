@@ -1,6 +1,18 @@
 ---
 ---
 <!-- _layouts/bib.html -->
+
+<style>
+  /* Preserve intended casing for publication buttons (override theme's ALL-CAPS .btn rules) */
+  .links a.btn,
+  .links a.btn * {
+    text-transform: none !important;
+    font-variant: normal !important;
+    font-variant-caps: normal !important;
+    letter-spacing: normal !important;
+  }
+</style>
+
       <div class="row">
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
@@ -155,111 +167,62 @@
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Absract</span>
-            </a>
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
-
           {%- if entry.arxiv %}
-            <a href="https://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">arXiv</span>
-            </a>
+            <a href="https://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
-
           {% if entry.openreview %}
-              <a href="{{ entry.openreview }}" class="btn btn-sm z-depth-0" role="button">
-                <span style="text-transform:none !important;">OpenReview</span>
-              </a>
+            <a href="{{ entry.openreview }}" class="btn btn-sm z-depth-0" role="button">OpenReview</a>
           {% endif %}
-
           {% if entry.demo %}
-            <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Demo</span>
-            </a>
+            <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
           {% endif %}
-
           {% if entry.journal_link %}
-            <a href="{{ entry.journal_link }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Journal</span>
-            </a>
+            <a href="{{ entry.journal_link }}" class="btn btn-sm z-depth-0" role="button">Journal</a>
           {% endif %}
-
           {%- if entry.bibtex_show %}
-            <a class="bibtex btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">BibTeX</span>
-            </a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
-
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">HTML</span>
-            </a>
-          {%- endif -%}
-
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">Html</a>
+          {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
-            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">PDF</span>
-            </a>
+            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">Pdf</a>
             {%- else -%}
-            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">PDF</span>
-            </a>
+            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Pdf</a>
             {%- endif %}
           {%- endif %}
-
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
-            <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Supp</span>
-            </a>
+            <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
             {%- else -%}
-            <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Supp</span>
-            </a>
+            <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
             {%- endif %}
           {%- endif %}
-
           {%- if entry.blog %}
-            <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Blog</span>
-            </a>
+            <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
           {%- endif -%}
-
           {%- if entry.code %}
-            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Code</span>
-            </a>
+            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
           {%- endif %}
-
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
-            <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Poster</span>
-            </a>
+            <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
             {%- else -%}
-            <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Poster</span>
-            </a>
+            <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
             {%- endif %}
           {%- endif %}
-
           {%- if entry.slides %}
             {% if entry.slides contains '://' -%}
-            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Slides</span>
-            </a>
+            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
             {%- else -%}
-            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Slides</span>
-            </a>
+            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
             {%- endif %}
           {%- endif %}
-
           {%- if entry.website %}
-            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">
-              <span style="text-transform:none !important;">Website</span>
-            </a>
+            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
           </div>
 
