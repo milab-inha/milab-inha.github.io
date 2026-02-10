@@ -1,18 +1,6 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-
-<style>
-  /* Preserve intended casing for publication buttons (override theme's ALL-CAPS .btn rules) */
-  .links a.btn,
-  .links a.btn * {
-    text-transform: none !important;
-    font-variant: normal !important;
-    font-variant-caps: normal !important;
-    letter-spacing: normal !important;
-  }
-</style>
-
       <div class="row">
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
@@ -43,12 +31,7 @@
         <div id="{{entry.key}}" class="col-sm-8">
         <!-- Title -->
         <div class="title">
-          {{
-            entry.title
-              | replace: '$^{177}$', '<sup>177</sup>'
-              | replace: '^{177}', '<sup>177</sup>'
-              | replace: '^177', '<sup>177</sup>'
-          }}
+          {{ entry.title | replace: '^177', '<sup>177</sup>' }}
         </div>
 
         <!-- Author -->
