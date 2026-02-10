@@ -139,7 +139,8 @@
 
             {%- if entry.note -%}
               {%- if venue_name or pub_year -%}<br>{%- endif -%}
-              <span class="note">{{ entry.note | strip }}</span>
+              <!-- NOTE: use pub-note (NOT "note") to avoid theme callout styling -->
+              <span class="pub-note">{{ entry.note | strip }}</span>
             {%- endif -%}
           </div>
         {%- endif -%}
