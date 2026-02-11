@@ -15,4 +15,8 @@ $max-content-width: {{ site.max_width }};
   "cv"
 ;
 
+/* Override al-folio's uppercase buttons in the bibliography */
+.publications .links a.btn {
+    text-transform: none !important;
+}
 
