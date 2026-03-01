@@ -122,11 +122,6 @@ nav_order: 3
 </div>
 <br>
 
-% ## Undergraduate researcher(s)
-% <br>
-
-
-
 ## Prospective Member {#prospective}
 
 Thank you for your interest in the research at MI Lab. <br>
