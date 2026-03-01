@@ -9,7 +9,7 @@ nav_order: 4
 ## Undergraduate Courses
 
 **Linear Algebra** <br>
-Semester: Spring 2022, Spring 2023, Spring 2024, Spring 2025<br>
+Semester: Spring 2022, Spring 2023, Spring 2024, Spring 2025, Spring 2026 <br>
 
 **Random Variables** <br>
 Semester: Fall 2025<br>
@@ -18,7 +18,7 @@ Semester: Fall 2025<br>
 Semester: Spring 2022, Spring 2023, Spring 2024<br>
 
 **Introduction to Machine Learning** <br>
-Semester: Fall 2022, Fall 2023, Fall 2024, Spring 2025<br>
+Semester: Fall 2022, Fall 2023, Fall 2024, Spring 2025, Spring 2026<br>
 
 **Deep Learning** <br>
 Semester: Fall 2022, Fall 2023, Fall 2024, Fall 2025<br>
@@ -30,3 +30,6 @@ Semester: Fall 2023, Fall 2025
 
 **Generative Artificial Intelligence** <br>
 Semester: Fall 2024
+
+**(Advanced Topics in) Deep learning** <br>
+Semester: Spring 2026
