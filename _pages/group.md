@@ -10,11 +10,11 @@ nav_order: 3
     /* Styles for screens larger than 768px (typical breakpoint for tablets) */
     @media (min-width: 768px) {
         .professor-photo {
-            width: 200px;
+            width: 150px;
             margin-right: 30px;
         }
         .student-photo {
-            width: 120px; /* Slightly smaller than the professor photo */
+            width: 130px; /* Slightly smaller than the professor photo */
             margin-right: 25px;
         }
         .professor-text, .student-text {
@@ -30,7 +30,7 @@ nav_order: 3
     /* Styles for screens smaller than 768px */
     @media (max-width: 768px) {
         .professor-photo {
-            width: 100px; /* adjust as needed for mobile */
+            width: 80px; /* adjust as needed for mobile */
             margin-right: 15px;
         }
         .student-photo {
@@ -83,13 +83,6 @@ nav_order: 3
 
 ## Current MS student(s)
 <div class="student-container">
-    <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/dlghks629'>Lee, Hwan</a><br>
-        Blind image inverse problem<br>
-    </div>
-</div>
-<div class="student-container">
     <img class="student-photo" src="/assets/img/yoon_sh.png" alt="yoon_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9C%A4-ba7435216/'>Yoon, Seonghwan</a><br>
@@ -129,24 +122,8 @@ nav_order: 3
 </div>
 <br>
 
-## Undergraduate researcher(s)
-<div class="student-container">
-    <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dongmin</a><br>
-        Generative model for logistics<br>
-        2024-<br>
-    </div>
-</div>
-<!-- <div class="student-container">
-    <img class="student-photo" src="/assets/img/han_sm.jpeg" alt="han_sm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%ED%95%9C-588731392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'>Han, Sangmin</a><br>
-        Causal reasoning<br>
-        2025-<br>
-    </div>
-</div> -->
-<br>
+% ## Undergraduate researcher(s)
+% <br>
 
 
 
@@ -163,6 +140,16 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
 <br>
 <br>
 <br>
+
+## Past MS students
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/dlghks629'>Lee, Hwan</a><br>
+    </div>
+</div>
+
+<br>
 ## Past Undergraduate researchers
 <div class="student-container">
     <img class="student-photo" src="/assets/img/kim_jh.jpg" alt="kim_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
@@ -176,7 +163,6 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
     <img class="student-photo" src="/assets/img/jeon_ms.jpg" alt="jeon_ms" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/%ED%95%99%EC%83%9D-%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99-%EC%A0%84%EB%AF%BC%EC%88%98-3445a62b8/'>Jeon, Minsu</a><br>
-        Inverse problem<br>
         2024-2024<br>
     </div>
 </div>
@@ -184,10 +170,15 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
     <img class="student-photo" src="/assets/img/hy_kim.png" alt="hy_kim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/홍열-김-90971a3adb'>Kim, Hong Youl</a><br>
-        Causal model<br>
         2025-2025
     </div>
 </div>
-
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dongmin</a><br>
+        2024-2025
+    </div>
+</div>
 
 
