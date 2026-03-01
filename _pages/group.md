@@ -141,6 +141,7 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
     <img class="student-photo" src="/assets/img/lee_h.jpg" alt="lee_h" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dlghks629'>Lee, Hwan</a><br>
+        2024.03-2026.02<br>
     </div>
 </div>
 
