@@ -9,6 +9,12 @@ nav_order: 5
 
 ### Current Grant Support <br>
 
+
+**Joint Distribution Modeling of Discrete-Continuous Mixed Variables Using Multiple Medical Datasets** <br>
+    - PI: Hongki Lim <br>
+    - NRF RS-2026-25476632<br>
+    - 2026.03 - 2029.02 <br><br>
+    
 **Diffusion Models in Gaussian Space for 3D Medical Imaging Reconstruction** <br>
     - PI: Hongki Lim <br>
     - NRF RS-2025-24683103<br>
