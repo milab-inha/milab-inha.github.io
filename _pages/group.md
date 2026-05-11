@@ -65,7 +65,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/kim_mw.JPG" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/민우-김-414aba2a3/'>Kim, Minwoo</a><br>
-        Inverse problem, Medical image captioning <br>
+        Inverse problem, Image captioning <br>
     </div>
 </div>
 <br>
