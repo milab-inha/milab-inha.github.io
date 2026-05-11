@@ -65,7 +65,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/kim_mw.JPG" alt="kim_mw" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/민우-김-414aba2a3/'>Kim, Minwoo</a><br>
-        Inverse problem<br>
+        Inverse problem, Medical image captioning <br>
     </div>
 </div>
 <br>
@@ -107,7 +107,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/woo_jh.jpg" alt="woo_jh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/진형-우-0647053a1'>Woo, Jinhyoung</a><br>
-        Causal reasoning<br>
+        Vehicle routing problem<br>
     </div>
 </div>
 <br>
@@ -117,7 +117,7 @@ nav_order: 3
     <img class="student-photo" src="/assets/img/sj_an.jpg" alt="sj_an" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/sangjun-an-178139361'>An, Sangjun</a><br>
-        Causal reasoning<br>
+        Image reconstruction and analysis <br>
     </div>
 </div>
 <br>
