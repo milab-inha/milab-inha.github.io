@@ -52,11 +52,11 @@ nav_order: 4
       <td>Spring 2022, Spring 2023, Spring 2024</td>
     </tr>
     <tr>
-      <td>EEC 3400 Introduction to Machine Learning [<a href="/assets/pdf/eec3400_machine_learning_flyer.pdf">Flyer</a>]</td>
+      <td>Introduction to Machine Learning [<a href="/assets/pdf/eec3400_machine_learning_flyer.pdf">Flyer</a>]</td>
       <td>Fall 2022, Fall 2023, Fall 2024, Spring 2025, Spring 2026</td>
     </tr>
     <tr>
-      <td>EEC 4414 Deep Learning [<a href="/assets/pdf/eec4414_deep_learning_flyer.pdf">Flyer</a>]</td>
+      <td>Deep Learning [<a href="/assets/pdf/eec4414_deep_learning_flyer.pdf">Flyer</a>]</td>
       <td>Fall 2022, Fall 2023, Fall 2024, Fall 2025</td>
     </tr>
   </tbody>
@@ -77,7 +77,7 @@ nav_order: 4
   </thead>
   <tbody>
     <tr>
-      <td>ECE 6083 Deep Generative Models [<a href="/assets/pdf/ece6083_deep_generative_model_flyer.pdf">Flyer</a>]</td>
+      <td>Deep Generative Models [<a href="/assets/pdf/ece6083_deep_generative_model_flyer.pdf">Flyer</a>]</td>
       <td>Fall 2023, Fall 2025</td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ nav_order: 4
       <td>Fall 2024</td>
     </tr>
     <tr>
-      <td>ECE 6031 Deep Learning: Modern Research Topics [<a href="/assets/pdf/ece6031_graduate_deep_learning_flyer.pdf">Flyer</a>]</td>
+      <td>Deep Learning: Modern Research Topics [<a href="/assets/pdf/ece6031_graduate_deep_learning_flyer.pdf">Flyer</a>]</td>
       <td>Spring 2026</td>
     </tr>
   </tbody>
