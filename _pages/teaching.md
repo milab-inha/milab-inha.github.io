@@ -52,12 +52,12 @@ nav_order: 4
 </div>
 
 <div class="course-item">
-  <div class="course-title">EEC 3400 Introduction to Machine Learning [<a href="/assets/pdf/eec3400_machine_learning_flyer.pdf">Flyer</a>]</div>
+  <div class="course-title"> Introduction to Machine Learning [<a href="/assets/pdf/eec3400_machine_learning_flyer.pdf">Flyer</a>]</div>
   <div class="course-semester">Fall 2022, Fall 2023, Fall 2024, Spring 2025, Spring 2026</div>
 </div>
 
 <div class="course-item">
-  <div class="course-title">EEC 4414 Deep Learning [<a href="/assets/pdf/eec4414_deep_learning_flyer.pdf">Flyer</a>]</div>
+  <div class="course-title"> Deep Learning [<a href="/assets/pdf/eec4414_deep_learning_flyer.pdf">Flyer</a>]</div>
   <div class="course-semester">Fall 2022, Fall 2023, Fall 2024, Fall 2025</div>
 </div>
 
@@ -70,7 +70,7 @@ nav_order: 4
 <div class="course-list">
 
 <div class="course-item">
-  <div class="course-title">ECE 6083 Deep Generative Models [<a href="/assets/pdf/ece6083_deep_generative_model_flyer.pdf">Flyer</a>]</div>
+  <div class="course-title"> Deep Generative Models [<a href="/assets/pdf/ece6083_deep_generative_model_flyer.pdf">Flyer</a>]</div>
   <div class="course-semester">Fall 2023, Fall 2025</div>
 </div>
 
@@ -80,7 +80,7 @@ nav_order: 4
 </div>
 
 <div class="course-item">
-  <div class="course-title">ECE 6031 Deep Learning: Modern Research Topics [<a href="/assets/pdf/ece6031_graduate_deep_learning_flyer.pdf">Flyer</a>]</div>
+  <div class="course-title"> Deep Learning: Modern Research Topics [<a href="/assets/pdf/ece6031_graduate_deep_learning_flyer.pdf">Flyer</a>]</div>
   <div class="course-semester">Spring 2026</div>
 </div>
 
