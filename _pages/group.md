@@ -110,9 +110,6 @@ nav_order: 3
         Vehicle routing problem<br>
     </div>
 </div>
-<br>
-
-## Current Undergraduate-MS student(s)
 <div class="student-container">
     <img class="student-photo" src="/assets/img/sj_an.jpg" alt="sj_an" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
