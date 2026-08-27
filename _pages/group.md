@@ -160,20 +160,6 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
     </div>
 </div>
 <div class="student-container">
-    <img class="student-photo" src="/assets/img/jeon_ms.jpg" alt="jeon_ms" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/%ED%95%99%EC%83%9D-%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99-%EC%A0%84%EB%AF%BC%EC%88%98-3445a62b8/'>Jeon, Minsu</a><br>
-        2024-2024<br>
-    </div>
-</div>
-<div class="student-container">
-    <img class="student-photo" src="/assets/img/hy_kim.png" alt="hy_kim" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/홍열-김-90971a3adb'>Kim, Hong Youl</a><br>
-        2025-2025
-    </div>
-</div>
-<div class="student-container">
     <img class="student-photo" src="/assets/img/kim_dm.jpg" alt="kim_dm" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dong-min-kim-6844272b8'>Kim, Dongmin</a><br>
