@@ -83,13 +83,6 @@ nav_order: 3
 
 ## Current MS student(s)
 <div class="student-container">
-    <img class="student-photo" src="/assets/img/yoon_sh.png" alt="yoon_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-    <div class="student-text">
-        <a href='https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9C%A4-ba7435216/'>Yoon, Seonghwan</a><br>
-        Medical image captioning, Vehicle routing problem<br>
-    </div>
-</div>
-<div class="student-container">
     <img class="student-photo" src="/assets/img/kim_db.jpg" alt="kim_db" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/학생-전자공학-김다빈-24951a2b8'>Kim, Dabin</a><br>
@@ -117,6 +110,13 @@ nav_order: 3
         Image reconstruction and analysis <br>
     </div>
 </div>
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/cg_min.jpg" alt="cg_min" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/창기-민-b5a121333'>Min, Chang Gi</a><br>
+        3D reconstruction<br>
+    </div>
+</div>
 <br>
 
 ## Prospective Member {#prospective}
@@ -139,6 +139,14 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
     <div class="student-text">
         <a href='https://www.linkedin.com/in/dlghks629'>Lee, Hwan</a><br>
         2024.03-2026.02<br>
+    </div>
+</div>
+
+<div class="student-container">
+    <img class="student-photo" src="/assets/img/yoon_sh.png" alt="yoon_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+    <div class="student-text">
+        <a href='https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9C%A4-ba7435216/'>Yoon, Seonghwan</a><br>
+        2024.08-2026.08<br>
     </div>
 </div>
 
