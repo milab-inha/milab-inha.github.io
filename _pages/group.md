@@ -146,7 +146,7 @@ If you are interested in doing research with us, send me an [email](mailto:hklim
     <img class="student-photo" src="/assets/img/yoon_sh.png" alt="yoon_sh" style="float: left; margin-right: 20px; margin-bottom: 10px;">
     <div class="student-text">
         <a href='https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9C%A4-ba7435216/'>Yoon, Seonghwan</a><br>
-        2024.08-2026.08<br>
+        2024.06-2026.08<br>
     </div>
 </div>
 
