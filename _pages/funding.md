@@ -15,11 +15,6 @@ nav_order: 5
     - NRF RS-2026-25476632<br>
     - 2026.03 - 2029.02 <br><br>
     
-**Diffusion Models in Gaussian Space for 3D Medical Imaging Reconstruction** <br>
-    - PI: Hongki Lim <br>
-    - NRF RS-2025-24683103<br>
-    - 2025.09 - 2026.08 <br><br>
-
 **Pioneer Program in Next-generation Artificial Intelligence for Industrial Convergence** <br>
     - PI: Byung Cheol Song (Inha University) <br>
     - BK21 4단계 <br>
@@ -37,6 +32,11 @@ nav_order: 5
     
 
 ### Past Grant Support <br>
+
+**Diffusion Models in Gaussian Space for 3D Medical Imaging Reconstruction** <br>
+    - PI: Hongki Lim <br>
+    - NRF RS-2025-24683103<br>
+    - 2025.09 - 2026.08 <br><br>
 
 **Artificial Intelligence Convergence Innovation Human Resources Development** <br>
     - PI: In Kyu Park (Inha University) <br>
